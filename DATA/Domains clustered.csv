@@ -1,0 +1,902 @@
+Cluster,Subcluster,Domain,Format Loads,Impressions,Format Fill Rate,Viewability Rate,Efficiency Rate,CPM,Clicks,CTR,Category,Country,Geographical zone
+1,1,inforuss.info,85713.18,65.73,0.07,96.26,99.47,1.62,0.45,0.59,News & Portals,Russia,East Europe
+1,1,newindianexpress.com,80994.86,3041.95,8.95,77.18,89.0,1.57,10.37,0.29,News & Portals,United Kingdom,West Europe
+1,1,eldigitalcastillalamancha.es,80706.23,20194.58,20.63,82.53,89.73,1.64,151.54,0.61,News & Portals,Spain,West Europe
+1,1,stirilekanald.ro,80331.75,4633.25,6.06,89.75,89.37,1.61,22.17,0.48,News & Portals,Romania,East Europe
+1,1,etnet.com.hk,79272.17,13759.65,18.53,70.7,95.4,1.71,23.53,0.2,News & Portals,Hong Kong,Asia
+1,1,vetogate.com,78177.05,114.63,0.11,53.92,55.78,1.12,0.66,0.29,News & Portals,Egypt,Africa
+1,1,fanipogody.pl,73040.84,4960.25,6.73,82.77,93.56,1.44,54.17,1.05,News & Portals,Poland,East Europe
+1,1,tvguide.co.uk,72791.06,4412.1,3.63,24.0,34.69,0.61,7.4,0.04,News & Portals,United Kingdom,West Europe
+1,1,sydneytoday.com,72392.12,2533.61,2.98,68.47,81.18,1.43,9.3,0.28,News & Portals,Australia,Australia
+1,1,nst.com.my,71651.49,9517.34,11.37,82.8,95.42,1.55,78.93,1.11,News & Portals,Malaysia,Asia
+1,1,tunoticiapr.com,71316.26,10466.15,8.29,53.11,61.32,1.09,111.37,0.96,News & Portals,United States,North America
+1,1,israelhayom.co.il,70605.46,16711.03,23.9,72.0,98.24,1.89,55.76,0.35,News & Portals,Israel,Asia
+1,1,laprensa.hn,70004.24,4252.7,6.37,78.53,88.55,1.64,26.12,0.56,News & Portals,Spain,West Europe
+1,1,sobesednik.ru,67185.0,42.5,0.06,98.82,99.56,1.55,0.0,0.0,News & Portals,Russia,East Europe
+1,1,viva.co.id,67101.28,2369.01,8.34,44.55,53.61,0.85,15.88,0.23,News & Portals,Singapore,Asia
+1,1,defence-line.org,66660.4,1374.63,2.16,82.97,96.14,1.71,8.98,0.68,News & Portals,Ukraine,East Europe
+1,1,tutiempo.net,66525.64,3587.38,5.46,80.39,91.45,1.63,9.58,0.28,News & Portals,Spain,West Europe
+1,1,prothomalo.com,64837.42,10042.64,8.12,39.29,48.79,0.85,21.03,0.11,News & Portals,Bangladesh,Asia
+1,1,dkn.tv,59531.55,2098.19,1.05,52.3,59.93,1.0,13.5,0.59,News & Portals,Vietnam,Asia
+1,1,rioja2.com,59029.22,9676.2,18.36,89.72,97.8,1.69,66.71,0.71,News & Portals,Spain,West Europe
+1,1,journalistenwatch.com,58545.71,140.83,0.61,35.1,39.53,0.67,1.19,0.28,News & Portals,Germany,West Europe
+1,1,mission-tw.com,55838.07,6009.91,17.28,89.07,99.41,1.72,31.12,0.6,News & Portals,Taiwan,Asia
+1,1,thanhnien.vn,55595.33,6184.15,12.44,75.2,87.6,1.64,5.17,0.09,News & Portals,Vietnam,Asia
+1,1,metromode.se,54919.04,12814.64,24.88,79.25,95.89,1.6,76.79,0.66,News & Portals,Sweden,West Europe
+1,1,bdnews24.com,52639.22,3375.57,3.31,37.65,49.48,0.86,16.43,0.22,News & Portals,Kuwait,Arabia
+1,1,newtimes.co.rw,52456.0,1169.0,3.09,67.66,62.11,0.84,11.5,0.65,News & Portals,Rwanda,Africa
+1,1,anderlecht-online.be,50767.54,5331.4,10.7,80.55,98.71,1.63,32.73,0.69,News & Portals,Belgium,West Europe
+1,1,lavozdelsur.es,50611.85,2814.62,5.35,86.47,88.58,1.47,15.21,0.44,News & Portals,Spain,West Europe
+1,1,twasul.info,50422.19,756.78,1.58,87.57,87.92,1.59,4.61,0.68,News & Portals,Saudi Arabia,Arabia
+1,1,vipflash.de,50268.72,592.49,3.33,83.84,99.86,1.67,4.07,1.0,News & Portals,Germany,West Europe
+1,1,bangkokpost.com,49941.04,3605.17,17.15,78.7,88.22,1.31,30.15,0.71,News & Portals,Thailand,Asia
+1,1,boxofficeindia.com,49296.64,1556.87,3.51,78.11,97.88,1.62,4.46,0.25,News & Portals,India,Asia
+1,1,thequint.com,49189.19,4873.26,11.18,53.85,61.27,1.05,24.62,0.32,News & Portals,Kuwait,Arabia
+1,1,konkurent.ru,48757.19,4456.92,19.59,44.9,58.47,0.92,16.19,0.32,News & Portals,Russia,East Europe
+1,1,ensegundos.do,48362.68,12274.87,38.49,88.48,97.7,1.64,53.61,0.43,News & Portals,United States,North America
+1,1,wprost.pl,48327.73,3622.44,6.21,70.76,78.56,1.48,12.32,0.31,News & Portals,Poland,East Europe
+1,1,febrayer.com,47053.95,372.83,1.01,90.53,97.88,1.62,2.46,0.8,News & Portals,Morocco,Africa
+1,1,akhbarona.com,46865.0,4.0,0.01,60.0,60.0,1.04,0.0,0.0,News & Portals,Morocco,Africa
+1,1,tygodnikpodhalanski.pl,46017.19,1009.14,2.55,83.04,98.29,1.71,10.7,0.99,News & Portals,Poland,East Europe
+1,1,gnewsline.com,43372.64,37510.3,42.43,65.28,77.85,1.47,1.64,0.04,News & Portals,United States,North America
+1,1,heidelberg24.de,41979.6,1841.7,3.64,84.69,92.6,1.62,25.7,0.97,News & Portals,Germany,West Europe
+1,1,elheraldo.hn,41835.37,2275.97,6.03,78.25,92.31,1.67,12.23,0.51,News & Portals,Spain,West Europe
+1,1,kutno.net.pl,41040.92,836.2,2.06,87.42,99.86,1.56,3.96,0.64,News & Portals,Poland,East Europe
+1,1,elcalce.com,40231.37,16182.88,50.05,90.78,97.12,1.67,111.04,0.65,News & Portals,United States,North America
+1,1,dir.bg,40111.01,212.41,0.07,13.03,13.68,0.3,0.41,0.03,News & Portals,Bulgaria,East Europe
+1,1,cndreams.com,40073.31,1312.45,3.36,75.03,98.64,1.59,2.69,0.21,News & Portals,Canada,North America
+1,1,theprint.in,39890.75,1256.29,1.24,36.48,40.57,0.77,3.5,0.13,News & Portals,India,Asia
+1,1,slunecnice.cz,39648.21,4972.17,12.7,80.19,97.3,1.58,13.99,0.37,News & Portals,Czech Republic,East Europe
+1,1,tinthethao.com.vn,39233.75,2435.73,4.11,83.71,93.7,1.63,12.01,0.23,News & Portals,Vietnam,Asia
+1,1,dienanh.net,38428.0,641.19,1.06,92.42,94.48,1.71,0.8,0.12,News & Portals,Vietnam,Asia
+1,1,lalibre.be,37673.18,7249.66,23.46,87.8,97.4,1.59,29.88,0.49,News & Portals,Belgium,West Europe
+1,1,bldaily.com,37063.07,13060.34,8.42,15.39,20.05,0.34,198.14,0.23,News & Portals,China,Asia
+1,1,mannheim24.de,36432.3,3305.18,13.35,76.0,87.71,1.42,15.04,0.4,News & Portals,Germany,West Europe
+1,1,truthdig.com,35486.44,11598.75,25.96,83.07,96.61,1.74,80.26,0.68,News & Portals,United States,North America
+1,1,thehindubusinessline.com,35243.86,4412.08,26.4,63.72,80.13,1.42,8.95,0.22,News & Portals,India,Asia
+1,1,kannadaprabha.com,35148.62,1451.92,9.38,86.0,95.25,1.92,2.55,0.14,News & Portals,United Arab Emirates,Arabia
+1,1,limanowa.in,35026.37,1068.2,1.94,57.58,58.0,1.09,13.41,0.48,News & Portals,Poland,East Europe
+1,1,eltiempo.com,34175.99,44277.47,112.28,91.27,94.85,1.64,221.24,0.72,News & Portals,United States,North America
+1,1,iol.pt,33838.88,1902.12,14.88,68.73,78.82,0.8,15.88,0.84,News & Portals,France,West Europe
+1,1,unian.net,33472.26,8267.49,19.71,86.07,97.01,1.64,43.59,0.34,News & Portals,Russia,East Europe
+1,1,wallstreet-online.de,33471.54,12411.81,21.52,72.56,93.09,1.45,28.84,0.24,News & Portals,United States,North America
+1,1,ibtimes.co.in,32858.7,45797.86,41.82,42.25,48.0,1.03,0.84,0.01,News & Portals,United States,North America
+1,1,24timezones.com,32837.16,4485.69,12.35,75.43,94.86,1.59,13.56,0.32,News & Portals,United States,North America
+1,1,stahuj.cz,32621.15,1686.3,4.41,63.14,79.6,1.23,4.01,0.21,News & Portals,Czech Republic,East Europe
+1,1,boxun.com,30860.39,6619.3,20.89,78.18,97.54,1.68,19.64,0.31,News & Portals,United States,North America
+1,1,thebl.com,30670.67,12351.34,23.63,55.56,63.56,1.05,117.85,0.51,News & Portals,United States,North America
+1,1,beautifulnara.com,30190.34,1788.85,7.9,80.55,98.41,1.6,18.62,0.89,News & Portals,Malaysia,Asia
+1,1,rawicz24.pl,28935.84,508.35,1.94,85.18,96.12,1.53,5.49,1.04,News & Portals,Poland,East Europe
+1,1,newsland.com,28841.84,1768.28,6.81,84.58,97.9,1.61,2.92,0.24,News & Portals,Russia,East Europe
+1,1,teepr.com,28172.54,6658.98,12.71,73.68,95.96,1.74,17.96,0.17,News & Portals,Taiwan,Asia
+1,1,debica24.eu,27831.54,568.15,2.54,88.34,97.7,1.57,5.69,0.91,News & Portals,Poland,East Europe
+1,1,dinamani.com,27605.92,1343.53,8.92,85.31,94.98,1.72,5.32,0.34,News & Portals,United Arab Emirates,Arabia
+1,1,diariopatriota.com,27464.13,1604.32,7.13,78.73,90.68,1.55,9.14,0.46,News & Portals,Spain,West Europe
+1,1,inquirer.net,26418.67,3601.73,10.7,80.89,89.22,1.55,17.84,0.45,News & Portals,Australia,Australia
+1,1,pplomo.com,25594.48,658.98,2.91,92.07,98.01,1.67,5.45,0.76,News & Portals,Taiwan,Asia
+1,1,lanaciondigital.es,25374.5,1745.72,7.14,76.78,81.02,1.54,8.69,0.36,News & Portals,Spain,West Europe
+1,1,paraeles.pt,25275.32,9.43,0.04,71.6,75.08,1.46,0.1,0.76,News & Portals,Portugal,West Europe
+1,1,maxpark.com,25252.91,1637.87,7.26,81.51,96.61,1.59,4.16,0.31,News & Portals,Russia,East Europe
+1,1,kuwaitlocal.com,25091.88,10.62,0.04,76.81,86.64,1.53,0.12,1.79,News & Portals,Kuwait,Arabia
+1,1,ac24.cz,24757.72,2033.26,5.64,85.84,98.41,1.56,13.85,0.67,News & Portals,Czech Republic,East Europe
+1,1,nownews.com,24639.38,1430.0,9.24,73.6,89.31,1.58,9.64,0.34,News & Portals,Taiwan,Asia
+1,1,mediafax.ro,24508.96,1518.04,6.67,83.49,92.78,1.47,5.15,0.59,News & Portals,Romania,East Europe
+1,1,electomania.es,23923.94,1760.61,3.0,30.72,37.27,0.95,4.46,0.1,News & Portals,Spain,West Europe
+1,1,komica.org,23846.25,1188.66,5.02,62.79,99.37,1.95,5.15,0.45,News & Portals,Taiwan,Asia
+1,1,losreplicantes.com,23757.93,4362.7,17.84,86.27,96.53,1.66,42.08,0.89,News & Portals,Spain,West Europe
+1,1,jarocinska.pl,23306.74,507.57,2.32,84.24,91.7,1.5,4.86,0.81,News & Portals,Poland,East Europe
+1,1,channel-korea.com,23279.63,5393.65,24.05,87.56,98.72,1.65,17.56,0.23,News & Portals,United States,North America
+1,1,qaru.site,22771.09,5584.75,4.34,26.21,35.19,0.64,6.51,0.09,News & Portals,Russia,East Europe
+1,1,clm24.es,21550.31,9180.0,23.47,60.49,64.52,1.17,31.83,0.25,News & Portals,Spain,West Europe
+1,1,zona-militar.com,21442.74,435.05,1.48,61.13,73.39,1.42,3.21,0.62,News & Portals,Belgium,West Europe
+1,1,elplural.com,21079.76,12237.74,59.74,90.58,97.47,1.87,49.32,0.4,News & Portals,Spain,West Europe
+1,1,factsherald.com,20991.16,616.9,2.3,71.92,75.1,1.79,0.05,0.01,News & Portals,United States,North America
+1,1,udayavani.com,20875.65,51.39,0.24,87.4,96.32,1.76,0.52,1.35,News & Portals,India,Asia
+1,1,xcatalunya.cat,20551.0,747.37,3.92,90.18,92.21,2.06,14.53,1.89,News & Portals,Spain,West Europe
+1,1,elmundo.es,20220.81,2125.87,13.72,78.17,88.94,1.7,3.25,0.2,News & Portals,United Kingdom,West Europe
+1,1,bezprawnik.pl,20050.66,1268.82,2.55,27.78,38.5,0.62,17.28,0.36,News & Portals,Poland,East Europe
+1,2,youm7.com,992087.95,11080.76,1.14,61.26,91.52,1.73,48.46,0.4,News & Portals,Egypt,Africa
+1,2,chinatimes.com,990576.14,188611.01,19.54,90.05,99.14,1.8,1311.98,0.79,News & Portals,Taiwan,Asia
+1,2,rediff.com,915541.39,86602.12,14.86,77.82,98.19,1.74,331.73,0.37,News & Portals,India,Asia
+1,2,stiripesurse.ro,842081.28,22125.53,4.47,76.1,86.22,1.48,147.26,0.54,News & Portals,Romania,East Europe
+1,3,dziennikwschodni.pl,459106.43,7518.82,1.84,82.37,97.51,1.56,163.45,2.32,News & Portals,Poland,East Europe
+1,3,kompas.com,403474.57,25840.59,19.48,66.51,89.5,1.62,142.89,0.5,News & Portals,Spain,West Europe
+1,3,tempo.co,393283.77,7788.1,2.17,78.12,95.52,1.81,65.76,0.59,News & Portals,Indonesia,Asia
+1,3,gulfnews.com,374091.58,59818.05,32.27,77.78,87.13,1.7,427.52,0.58,News & Portals,United Arab Emirates,Arabia
+1,3,elespanol.com,358047.35,38324.63,11.91,81.79,96.89,1.68,202.77,0.54,News & Portals,Spain,West Europe
+1,3,tribunnews.com,352676.38,6641.24,10.86,74.0,91.88,1.65,80.85,0.92,News & Portals,Indonesia,Asia
+1,3,mundohispanico.com,343385.17,203967.16,63.2,84.03,97.46,1.66,1460.67,0.76,News & Portals,United States,North America
+1,3,mendozapost.com,327359.65,6334.65,0.8,82.12,79.31,1.33,83.74,1.36,News & Portals,Spain,West Europe
+1,3,lebanondebate.com,300153.55,4356.07,0.94,40.56,56.63,0.99,34.48,0.42,News & Portals,Lebanon,Arabia
+1,3,dainikamadershomoy.com,290137.99,5191.03,1.92,85.36,97.92,1.67,21.37,0.4,News & Portals,Bangladesh,Asia
+1,3,urdupoint.com,271875.04,10375.51,8.07,77.63,82.09,1.69,61.19,0.52,News & Portals,Pakistan,Asia
+1,3,hmetro.com.my,262733.54,18156.34,7.37,87.37,96.95,1.56,117.06,1.04,News & Portals,Malaysia,Asia
+1,3,theitaliantimes.it,256086.44,12805.25,7.43,87.15,97.54,1.69,54.69,0.35,News & Portals,Italy,West Europe
+1,3,botasot.info,242520.22,1771.51,0.29,35.38,38.19,0.66,18.54,0.39,News & Portals,Albania,East Europe
+1,3,hk01.com,233200.37,18461.7,18.95,82.05,93.43,1.51,117.51,0.67,News & Portals,Taiwan,Asia
+1,3,clarin.com,231418.08,21914.73,9.28,80.18,77.47,1.56,94.96,0.6,News & Portals,Spain,West Europe
+1,4,missyusa.com,1732798.15,124798.83,10.81,78.07,98.47,1.71,98.44,0.07,News & Portals,United States,North America
+1,5,lebanon24.com,219605.01,7020.82,3.36,87.15,96.55,1.67,61.03,0.88,News & Portals,Lebanon,Arabia
+1,5,trendingpolitics.com,201977.0,3274.0,1.48,60.94,60.28,0.87,38.17,0.72,News & Portals,United States,North America
+1,5,indiatoday.in,198954.48,10224.86,12.84,68.44,78.45,1.27,81.41,0.33,News & Portals,India,Asia
+1,5,metro.pr,192961.7,34416.34,23.64,78.04,91.67,1.8,308.07,0.96,News & Portals,United States,North America
+1,5,tienphong.vn,191667.77,4844.06,1.13,38.27,41.74,0.87,19.29,0.2,News & Portals,Vietnam,Asia
+1,5,soundofhope.org,190944.94,13779.6,6.15,92.73,98.6,1.79,71.73,0.62,News & Portals,Taiwan,Asia
+1,5,bharian.com.my,184769.24,22661.79,12.35,85.52,96.66,1.55,147.73,1.33,News & Portals,Malaysia,Asia
+1,5,kompasiana.com,176183.07,6001.54,12.16,58.7,77.89,1.55,28.87,0.43,News & Portals,Indonesia,Asia
+1,5,samakal.com,173578.03,3349.63,2.06,85.46,97.49,1.68,16.48,0.48,News & Portals,Bangladesh,Asia
+1,5,parttime.hk,173279.11,1709.55,0.82,76.66,83.94,1.74,3.89,0.27,News & Portals,Hong Kong,Asia
+1,5,wykop.pl,171826.38,5468.09,2.19,35.29,43.41,0.76,19.12,0.26,News & Portals,China,Asia
+1,5,vov.vn,163686.3,3849.38,2.42,82.37,93.59,2.12,10.97,0.31,News & Portals,Vietnam,Asia
+1,5,anandabazar.com,155805.07,21441.59,32.53,84.95,97.96,1.74,40.61,0.16,News & Portals,United States,North America
+1,5,forum24.cz,154995.61,1995.69,1.81,68.13,75.42,1.27,23.18,0.49,News & Portals,Czech Republic,East Europe
+1,5,nawaret.com,149014.04,8658.99,6.2,85.2,93.16,1.57,96.68,1.2,News & Portals,Egypt,Africa
+1,5,trud.com,143133.59,1273.35,0.84,77.87,84.57,1.59,8.1,1.14,News & Portals,Russia,East Europe
+1,5,janamtv.com,142034.33,2618.04,1.93,87.79,97.15,1.7,16.97,0.65,News & Portals,India,Asia
+1,5,kolkata24x7.com,139831.33,1005.0,0.71,90.06,65.86,1.82,2.67,0.32,News & Portals,India,Asia
+1,5,malaymail.com,138156.86,23505.53,17.32,84.07,97.9,1.62,311.4,1.51,News & Portals,Malaysia,Asia
+1,5,paruvendu.fr,132805.56,21499.48,13.86,83.96,98.64,1.59,158.51,0.94,News & Portals,France,West Europe
+1,5,tpi.it,131885.82,186.12,1.49,26.26,29.98,0.49,1.47,0.4,News & Portals,Italy,West Europe
+1,5,ichacha.net,129606.57,24072.64,18.24,66.8,95.4,1.67,35.14,0.12,News & Portals,Taiwan,Asia
+1,5,twojenowinki.pl,128448.64,4011.34,4.24,92.41,99.04,1.72,44.88,1.18,News & Portals,Poland,East Europe
+1,5,pudhari.co.in,127656.67,23.03,0.02,78.52,93.69,2.03,0.06,0.23,News & Portals,India,Asia
+1,5,lavozdealmeria.com,127121.87,15997.11,14.42,86.66,97.16,1.59,218.15,1.28,News & Portals,Spain,West Europe
+1,5,deccanherald.com,126733.54,4651.79,6.46,83.75,89.91,1.81,14.42,0.29,News & Portals,China,Asia
+1,5,otopress.pl,122489.32,8823.2,5.39,64.24,76.83,1.21,82.15,0.69,News & Portals,Poland,East Europe
+1,5,columnacero.com,122444.98,8501.69,5.32,61.17,66.69,1.33,37.87,0.35,News & Portals,Spain,West Europe
+1,5,lepoint.fr,121572.4,8096.25,7.4,76.27,96.7,1.56,27.09,0.38,News & Portals,France,West Europe
+1,5,corriere.it,121549.87,25942.76,22.73,74.88,98.97,1.75,66.97,0.26,News & Portals,United States,North America
+1,5,thairath.co.th,118281.31,21724.4,21.89,86.81,94.46,1.74,60.15,0.63,News & Portals,Thailand,Asia
+1,5,diario16.com,117442.4,16256.9,16.25,80.34,86.99,1.56,106.26,0.53,News & Portals,Spain,West Europe
+1,5,nordkurier.de,113917.28,19782.49,18.74,78.45,92.9,1.48,126.79,0.62,News & Portals,Germany,West Europe
+1,5,sandesh.com,113213.13,3445.74,2.97,88.54,96.89,1.83,8.98,0.25,News & Portals,India,Asia
+1,5,epapervijayavani.in,110055.68,161.68,0.14,84.9,99.67,1.76,0.5,0.26,News & Portals,India,Asia
+1,5,aastocks.com,108441.25,9312.98,12.38,58.33,88.26,1.46,10.86,0.2,News & Portals,Hong Kong,Asia
+1,5,dailynayadiganta.com,106077.46,270.62,0.08,24.43,27.92,0.45,0.99,0.08,News & Portals,Bangladesh,Asia
+1,5,westca.com,103570.26,585.79,0.41,56.34,66.19,1.35,2.01,0.2,News & Portals,Canada,North America
+1,5,salon24.pl,103167.09,1616.53,1.72,89.26,97.52,1.71,16.46,0.84,News & Portals,Poland,East Europe
+1,5,elwatannews.com,101399.61,2717.4,2.76,88.95,94.26,1.65,16.83,0.63,News & Portals,Egypt,Africa
+1,5,elnacional.cat,100854.39,1852.98,1.65,38.36,76.74,2.12,1.68,0.09,News & Portals,Spain,West Europe
+1,5,lesiteinfo.com,99607.64,659.31,1.21,54.64,69.05,1.16,4.93,0.39,News & Portals,Morocco,Africa
+1,5,tichyseinblick.de,96344.94,7747.59,7.94,77.79,91.68,1.55,65.64,0.87,News & Portals,Germany,West Europe
+1,5,dorzeczy.pl,94656.78,3882.68,4.54,91.44,95.38,1.68,13.29,0.38,News & Portals,Poland,East Europe
+1,5,india.com,93152.53,6963.9,7.47,70.34,84.36,1.44,29.44,0.46,News & Portals,United States,North America
+1,5,epapergujaratsamachar.com,92565.26,351.61,0.4,79.79,99.91,1.9,0.58,0.16,News & Portals,India,Asia
+1,5,dagens.dk,91104.32,6998.32,5.1,84.85,93.1,1.5,45.06,0.52,News & Portals,Denmark,West Europe
+1,6,huffingtonpost.es,722822.39,125441.87,21.77,87.99,98.57,1.48,1667.39,1.1,News & Portals,Spain,West Europe
+1,6,lebanonfiles.com,658081.28,2777.19,0.43,68.72,87.36,1.73,16.36,0.53,News & Portals,Lebanon,Arabia
+1,6,ask.fm,613391.89,7281.68,1.27,62.22,89.87,1.8,4.36,0.07,News & Portals,Egypt,Africa
+1,6,jugantor.com,612970.04,14674.57,2.46,86.13,98.1,1.75,46.82,0.33,News & Portals,Bangladesh,Asia
+1,6,tayyar.org,608149.01,12721.07,2.15,82.57,97.38,1.7,110.84,0.91,News & Portals,Lebanon,Arabia
+1,6,planet.fr,599581.2,7199.47,14.22,70.93,85.71,1.08,62.93,0.65,News & Portals,France,West Europe
+1,6,pikio.pl,545515.45,39846.9,3.78,45.02,55.01,0.86,316.36,0.4,News & Portals,Poland,East Europe
+1,6,discuss.com.hk,514596.89,21237.54,3.6,66.38,89.79,1.7,76.46,0.23,News & Portals,Hong Kong,Asia
+2,1,clicrbs.com.br,451921.26,101494.78,24.69,77.54,99.23,1.76,330.08,0.36,News & Portals,Brazil,South America
+2,1,jornaldacidadeonline.com.br,431461.51,2500.71,0.6,88.69,85.12,1.66,13.8,0.77,News & Portals,Brazil,South America
+2,1,eluniversal.com.co,420376.49,30971.9,10.08,85.57,95.8,1.75,219.29,0.76,News & Portals,Colombia,South America
+2,1,diariodecuyo.com.ar,420015.64,10608.74,2.66,80.41,90.91,1.71,58.24,0.53,News & Portals,Argentina,South America
+2,1,lagaceta.com.ar,418896.0,23058.55,4.95,86.04,72.06,1.51,242.37,1.1,News & Portals,Argentina,South America
+2,1,lacapital.com.ar,402117.16,19128.94,4.4,86.56,96.35,1.64,276.16,0.89,News & Portals,Argentina,South America
+2,1,cgn.inf.br,394453.0,14159.09,3.58,86.32,97.69,1.62,51.85,0.39,News & Portals,Brazil,South America
+2,1,aristeguinoticias.com,369841.61,34951.05,11.79,85.77,94.65,1.63,142.61,0.43,News & Portals,Mexico,South America
+2,1,elheraldo.co,358896.11,20609.37,6.11,72.9,81.49,2.01,74.64,0.35,News & Portals,Ecuador,South America
+2,1,lostiempos.com,358413.11,16859.81,4.86,78.97,94.58,1.74,132.38,0.78,News & Portals,Bolivia,South America
+2,1,elcolombiano.com,356778.83,22810.65,8.22,86.24,96.83,1.68,195.39,0.74,News & Portals,Colombia,South America
+2,1,biobiochile.cl,355148.89,54434.97,17.59,85.61,97.67,1.62,419.4,0.8,News & Portals,Chile,South America
+2,1,cronica.com.ar,346442.41,7813.15,2.51,77.29,87.69,1.69,74.62,0.76,News & Portals,Argentina,South America
+2,1,teletica.com,343241.14,6077.06,1.45,78.15,87.19,1.54,75.55,0.76,News & Portals,Costa Rica,South America
+2,1,vanguardia.com,329823.66,23178.17,7.36,85.31,94.69,1.73,163.66,0.76,News & Portals,Colombia,South America
+2,1,crhoy.com,327545.59,23802.65,30.18,88.86,96.83,1.71,202.0,0.84,News & Portals,Costa Rica,South America
+2,1,diarioonline.com.br,320864.43,28271.02,8.79,84.08,97.38,1.61,169.3,0.53,News & Portals,Brazil,South America
+2,1,prensa.com,300034.86,37457.47,19.84,76.66,95.27,1.61,189.13,0.5,News & Portals,Panama,South America
+2,2,rosario3.com,159665.67,2385.99,1.59,63.38,71.31,1.29,11.71,0.34,News & Portals,Argentina,South America
+2,2,bandab.com.br,159652.47,13146.33,9.75,69.12,93.35,1.56,78.77,0.52,News & Portals,Brazil,South America
+2,2,lacuarta.com,158575.65,20186.72,12.42,85.28,96.53,1.51,222.92,0.96,News & Portals,Chile,South America
+2,2,eluniverso.com,154770.99,10032.82,12.23,82.64,95.93,1.73,69.24,0.75,News & Portals,Mexico,South America
+2,2,20minutos.es,150584.31,31455.6,20.55,84.81,94.31,1.59,271.28,0.9,News & Portals,Mexico,South America
+2,2,ultimasnoticias.com.ve,149447.4,722.76,0.45,86.0,71.61,1.61,4.81,0.55,News & Portals,Venezuela,South America
+2,2,metroecuador.com.ec,149186.49,17505.63,14.78,80.64,89.37,1.75,225.01,1.14,News & Portals,Ecuador,South America
+2,2,reportermt.com.br,148187.15,6022.7,5.06,85.36,96.91,1.68,48.48,0.82,News & Portals,Brazil,South America
+2,2,elimparcial.com,147541.31,17895.41,17.52,71.05,80.87,1.2,186.18,0.88,News & Portals,Mexico,South America
+2,2,info7.mx,144847.67,12120.22,8.21,84.42,87.48,1.79,49.78,0.37,News & Portals,Mexico,South America
+2,2,theclinic.cl,142819.98,14818.24,11.79,87.36,98.27,1.6,150.36,0.84,News & Portals,Chile,South America
+2,2,quadratin.com.mx,138894.28,7740.72,4.75,58.46,66.52,1.08,61.33,0.54,News & Portals,Mexico,South America
+2,2,tribunaonline.com.br,137014.8,19291.92,15.7,91.12,99.41,1.62,166.75,0.9,News & Portals,Brazil,South America
+2,2,laopcion.com.mx,136053.1,4449.18,3.54,75.36,98.41,1.6,21.35,0.63,News & Portals,Mexico,South America
+2,2,unosantafe.com.ar,134408.77,1493.85,1.28,88.75,93.31,1.72,16.48,0.82,News & Portals,Argentina,South America
+2,2,teleamazonas.com,132826.54,12573.07,10.1,90.73,91.8,1.79,124.48,0.96,News & Portals,Ecuador,South America
+2,2,colombia.com,132077.4,9573.13,14.36,75.26,84.32,1.97,85.06,0.89,News & Portals,Colombia,South America
+2,2,lr21.com.uy,131254.24,5784.22,7.11,92.11,94.11,1.83,66.34,0.96,News & Portals,Uruguay,South America
+2,2,repretel.com,128836.13,11985.1,9.75,85.37,91.68,1.59,82.31,0.72,News & Portals,Costa Rica,South America
+2,2,hoy.com.do,127955.49,7580.45,6.39,71.1,87.39,1.72,55.96,0.77,News & Portals,Dominican Republic,South America
+2,2,solonoticias.com,127356.94,7633.05,6.74,84.21,89.26,1.69,123.41,1.54,News & Portals,El Salvador,South America
+2,2,midianews.com.br,126507.09,40990.08,30.86,82.81,93.47,1.7,146.19,0.38,News & Portals,Brazil,South America
+2,2,vanguardia.com.mx,125920.91,7907.25,6.27,80.66,86.26,1.45,79.56,1.12,News & Portals,Mexico,South America
+2,2,correioweb.com.br,124607.75,12869.53,11.51,63.14,98.53,1.73,45.26,0.44,News & Portals,Brazil,South America
+2,2,waves.com.br,122084.58,915.92,0.77,83.22,78.72,1.57,2.12,0.19,News & Portals,Brazil,South America
+2,2,ilustrado.cl,120981.45,16050.92,10.9,73.37,81.74,1.28,172.55,0.87,News & Portals,Chile,South America
+2,2,pueblaenlinea.com,118435.78,2900.52,3.13,85.65,93.77,1.62,35.08,1.33,News & Portals,Mexico,South America
+2,2,folhamax.com,118153.54,22826.21,32.26,81.88,98.98,1.73,45.02,0.27,News & Portals,Brazil,South America
+2,2,chvnoticias.cl,117588.06,20572.21,18.33,89.88,98.97,1.52,281.6,1.35,News & Portals,Chile,South America
+2,2,miamidiario.com,115714.18,10677.64,10.33,81.15,91.98,1.61,96.86,1.18,News & Portals,Venezuela,South America
+2,2,bles.com,115273.35,13933.53,11.81,76.91,84.21,1.54,193.64,1.15,News & Portals,Argentina,South America
+2,2,mdzol.com,114149.96,1895.06,1.51,65.67,71.09,1.35,21.35,0.78,News & Portals,Argentina,South America
+2,2,acordacidade.com.br,113829.43,11453.52,11.24,71.76,97.22,1.63,11.07,0.11,News & Portals,Brazil,South America
+2,2,tabascohoy.com,112784.75,13881.38,13.51,87.86,95.24,1.65,119.44,0.89,News & Portals,Mexico,South America
+2,2,cartacapital.com.br,111554.35,13633.94,13.83,85.45,98.63,1.62,54.2,0.38,News & Portals,Brazil,South America
+2,2,campograndenews.com.br,111178.36,5352.82,6.34,69.4,90.17,1.61,24.34,0.55,News & Portals,Brazil,South America
+2,2,ncrnoticias.com,109547.71,692.02,0.79,91.64,92.11,1.59,2.85,0.41,News & Portals,Costa Rica,South America
+2,2,entrepreneur.com,108772.58,39880.5,39.7,85.21,97.75,1.66,158.16,0.41,News & Portals,Mexico,South America
+2,2,lanacion.com.py,108079.81,5076.76,5.88,88.98,95.66,1.68,56.65,1.0,News & Portals,Paraguay,South America
+2,2,exitosanoticias.pe,107467.71,11551.57,11.11,87.41,95.18,1.63,102.05,0.94,News & Portals,Peru,South America
+2,2,rpp.pe,107373.46,19444.24,16.33,61.06,92.27,1.66,72.98,0.43,News & Portals,Peru,South America
+2,2,midiario.com,107090.15,15905.26,18.87,84.03,94.27,1.55,109.17,0.63,News & Portals,Panama,South America
+2,2,perfil.com,106945.52,6507.26,5.7,70.62,82.96,1.47,44.49,0.6,News & Portals,Argentina,South America
+2,2,diariodovale.com.br,106257.18,3898.17,3.81,87.06,98.41,1.53,20.37,0.56,News & Portals,Brazil,South America
+2,2,lasillarota.com,106081.04,21525.64,21.53,88.39,97.55,1.63,131.3,0.63,News & Portals,Mexico,South America
+2,2,riovagas.com.br,105067.46,1496.64,2.41,55.07,82.22,1.57,4.96,0.29,News & Portals,Brazil,South America
+2,2,publimetro.cl,104090.69,9707.21,13.45,67.94,95.14,1.52,81.71,0.71,News & Portals,Chile,South America
+2,2,cronica.com.py,102668.94,2124.81,3.26,80.89,89.68,1.66,17.8,0.8,News & Portals,Paraguay,South America
+2,2,guioteca.com,102647.93,18247.74,20.87,89.67,96.38,1.64,125.67,0.64,News & Portals,Mexico,South America
+2,2,caracol.com.co,101906.82,17093.63,25.21,88.25,97.08,1.71,98.18,0.53,News & Portals,Colombia,South America
+2,2,argumentopolitico.org,101405.35,6679.47,3.24,87.12,84.53,1.7,66.78,0.65,News & Portals,Mexico,South America
+2,2,infobae.com,100800.13,19845.87,20.25,89.17,96.6,1.62,217.73,0.99,News & Portals,Uruguay,South America
+2,2,correio24horas.com.br,99546.15,39295.79,36.05,75.57,99.12,1.71,128.24,0.39,News & Portals,Brazil,South America
+2,2,expreso.ec,98701.09,3201.46,4.61,56.15,71.22,1.49,20.6,0.38,News & Portals,Ecuador,South America
+2,2,diariodocentrodomundo.com.br,95225.26,16576.86,21.71,79.42,98.58,1.67,31.01,0.23,News & Portals,Brazil,South America
+2,2,gazetadopovo.com.br,94386.25,13623.49,15.44,84.06,98.06,1.74,27.35,0.27,News & Portals,Brazil,South America
+2,2,mhoninoticias.com,94363.81,16109.97,17.45,88.74,96.13,1.58,281.28,1.44,News & Portals,Mexico,South America
+2,2,wradio.com.co,91609.99,12444.01,15.89,88.77,96.25,1.73,73.53,0.59,News & Portals,Colombia,South America
+2,2,pagina7.cl,90967.8,22162.11,23.59,81.32,94.75,1.51,261.19,0.99,News & Portals,Chile,South America
+2,2,ciudad.com.ar,89412.31,1843.5,2.95,83.92,93.61,1.74,9.55,0.57,News & Portals,Uruguay,South America
+2,2,plantaoenfoco.com.br,88946.51,4347.56,5.01,87.37,96.65,1.5,12.42,0.24,News & Portals,Brazil,South America
+2,2,diariodepernambuco.com.br,88688.25,15035.1,21.48,83.42,98.77,1.64,86.7,0.77,News & Portals,Brazil,South America
+2,2,diariouno.com.ar,87549.61,2771.49,6.65,83.66,92.19,1.74,18.31,0.51,News & Portals,Argentina,South America
+2,2,historyplay.tv,85569.2,10543.07,13.52,81.38,96.85,1.61,62.1,0.66,News & Portals,Mexico,South America
+2,2,unoentrerios.com.ar,84338.69,1339.47,1.74,85.18,94.0,1.64,12.0,0.84,News & Portals,Argentina,South America
+2,2,elsiglo.com.pa,83246.92,15450.06,19.39,90.66,95.98,1.59,42.77,0.36,News & Portals,Panama,South America
+2,2,periodicocentral.mx,83026.39,8641.91,12.26,87.79,97.75,1.57,90.56,1.03,News & Portals,Mexico,South America
+2,2,xeu.mx,83010.99,6068.0,7.77,83.62,95.41,1.62,8.08,0.14,News & Portals,Mexico,South America
+2,2,datachaco.com,81869.08,3795.08,4.5,91.61,74.67,1.5,25.58,0.72,News & Portals,Argentina,South America
+2,2,lahora.com.ec,81282.02,4218.2,5.35,89.21,91.71,1.92,29.05,0.76,News & Portals,Ecuador,South America
+2,2,lanetanoticias.com,81045.58,13575.61,16.88,92.1,98.42,1.57,128.39,1.37,News & Portals,Mexico,South America
+2,2,elpais.com.uy,80881.47,5783.35,5.62,76.99,87.96,1.66,37.01,0.52,News & Portals,Argentina,South America
+2,2,varelanoticias.com.br,80801.48,8208.41,11.21,86.4,98.82,1.65,62.45,0.72,News & Portals,Brazil,South America
+2,2,jornalggn.com.br,80764.24,15188.24,19.47,83.99,99.08,1.67,71.25,0.53,News & Portals,Brazil,South America
+2,2,labrujula24.com,80292.91,1155.04,1.56,82.15,90.28,1.66,8.77,0.7,News & Portals,Argentina,South America
+2,3,lateja.cr,76260.06,8838.55,11.79,90.08,97.22,1.67,60.91,0.7,News & Portals,Costa Rica,South America
+2,3,eldia.com.do,75857.59,3582.63,4.69,74.75,92.06,1.69,37.48,0.93,News & Portals,Dominican Republic,South America
+2,3,elcontraste.cl,73786.4,551.2,0.68,92.09,82.88,1.51,3.8,0.68,News & Portals,Chile,South America
+2,3,tn.com.ar,73532.67,3799.92,7.17,84.06,93.46,1.68,27.65,0.76,News & Portals,Argentina,South America
+2,3,mexicodesconocido.com.mx,71123.22,23669.02,37.24,86.38,98.31,1.63,117.96,0.59,News & Portals,Mexico,South America
+2,3,mvsnoticias.com,70301.82,7766.31,9.37,67.45,80.1,1.35,91.24,0.78,News & Portals,Mexico,South America
+2,3,diariojornada.com.ar,68926.28,4259.88,6.39,89.81,64.61,1.43,42.12,0.97,News & Portals,Argentina,South America
+2,3,plox.com.br,68367.67,10228.84,16.75,74.22,91.46,1.53,86.34,0.7,News & Portals,Brazil,South America
+2,3,teledoce.com,68108.66,2157.57,3.59,89.77,95.88,1.69,30.2,1.37,News & Portals,Uruguay,South America
+2,3,eltrecetv.com.ar,66494.0,4146.48,8.29,87.61,96.02,1.73,24.03,0.54,News & Portals,Uruguay,South America
+2,3,globo.com,65548.89,17509.31,26.66,75.31,99.74,1.85,69.61,0.39,News & Portals,Brazil,South America
+2,3,a24.com,65251.31,1990.58,8.86,79.11,84.02,1.62,18.51,0.7,News & Portals,Argentina,South America
+2,3,elnacional.com.do,63798.45,5111.93,7.99,80.22,93.66,1.9,49.45,1.36,News & Portals,Dominican Republic,South America
+2,3,informatesalta.com.ar,62473.85,1874.75,2.37,56.21,60.77,1.09,17.83,0.49,News & Portals,Argentina,South America
+2,3,orolo.com.br,62449.47,11.95,0.02,81.29,78.06,1.53,0.16,0.84,News & Portals,Brazil,South America
+2,3,ntn24.com,62379.15,15356.48,20.81,81.2,90.61,1.52,120.4,0.79,News & Portals,Colombia,South America
+2,3,columbia.co.cr,62222.63,2012.48,3.44,91.91,97.0,1.62,18.03,0.61,News & Portals,Costa Rica,South America
+2,3,noticiassin.com,61709.69,7087.88,11.78,89.01,95.91,1.69,82.2,1.29,News & Portals,Dominican Republic,South America
+2,3,eldesconcierto.cl,61088.08,1933.33,2.96,42.63,48.1,0.88,19.18,0.53,News & Portals,Chile,South America
+2,3,elobservador.com.uy,60849.34,13009.24,26.52,82.4,95.4,1.68,88.81,0.71,News & Portals,Argentina,South America
+2,3,urgente24.com,60300.89,4572.94,8.26,81.1,83.6,1.5,55.27,1.03,News & Portals,Argentina,South America
+2,3,lahora.gt,59877.37,6077.1,11.8,89.7,97.12,1.76,63.23,1.03,News & Portals,Guatemala,South America
+2,3,critica.com.pa,59794.62,10228.42,20.95,64.94,96.44,1.69,6.49,0.09,News & Portals,Panama,South America
+2,3,elmundo.sv,59581.13,4160.94,7.87,84.01,86.23,1.67,25.44,0.51,News & Portals,El Salvador,South America
+2,3,kienyke.com,59343.16,5207.3,9.01,69.53,75.72,1.45,29.78,0.51,News & Portals,Mexico,South America
+2,3,elsalvadortimes.com,59068.8,6238.12,8.53,57.85,68.78,1.34,57.22,0.65,News & Portals,El Salvador,South America
+2,3,eldiario.net,58902.98,4085.24,6.99,89.04,97.29,1.68,29.85,0.74,News & Portals,Bolivia,South America
+2,3,odiario.net,58492.61,5350.81,7.13,66.41,77.05,1.37,22.78,0.27,News & Portals,Brazil,South America
+2,3,cdn.com.do,58047.65,4998.09,9.46,90.2,92.41,1.76,56.56,1.0,News & Portals,Dominican Republic,South America
+2,3,prensalibre.com,58038.75,3460.71,12.88,91.5,86.88,2.21,30.75,0.73,News & Portals,Guatemala,South America
+2,3,diaadia.com.pa,57975.48,7508.3,13.74,84.12,94.45,1.68,35.48,0.55,News & Portals,Panama,South America
+2,3,am.com.mx,56830.41,10554.95,11.91,63.72,71.09,1.22,83.13,0.55,News & Portals,Mexico,South America
+2,3,qhubocali.com,56568.98,2369.0,5.32,83.82,93.2,1.77,20.14,0.91,News & Portals,Colombia,South America
+2,3,cnpj.rocks,54937.95,1390.54,2.87,82.56,95.37,2.53,2.51,0.2,News & Portals,Brazil,South America
+2,3,tuvideopr.com,54323.45,25461.85,53.97,95.53,98.19,1.69,382.21,1.58,News & Portals,Puerto Rico,South America
+2,3,sanjuan8.com,54141.9,972.68,3.94,85.13,91.98,1.76,7.46,0.87,News & Portals,Argentina,South America
+2,3,laprensalibre.cr,52981.56,3997.83,7.14,86.87,91.62,1.66,23.99,0.57,News & Portals,Costa Rica,South America
+2,3,amprensa.com,52966.73,1050.29,2.97,91.69,93.72,1.63,13.04,0.69,News & Portals,Nicaragua,South America
+2,3,meumundo.digital,52485.3,834.33,1.2,62.23,70.27,1.25,0.2,0.01,News & Portals,Brazil,South America
+2,3,elcaribe.com.do,50331.54,4097.64,8.04,84.31,87.15,1.69,70.99,1.51,News & Portals,Dominican Republic,South America
+2,3,diario.mx,49836.29,1515.71,2.48,45.44,48.17,1.04,14.53,0.24,News & Portals,Mexico,South America
+2,3,piranot.com.br,49367.74,3994.0,5.82,71.7,85.08,1.43,18.97,0.34,News & Portals,Brazil,South America
+2,3,folhabv.com.br,48987.38,5343.94,11.54,88.25,99.98,1.59,97.44,1.7,News & Portals,Brazil,South America
+2,3,albertonews.com,48924.09,2231.92,4.24,83.11,87.35,1.61,20.9,0.81,News & Portals,Venezuela,South America
+2,3,laprensagrafica.com,48087.89,307.92,3.26,58.43,20.97,1.73,2.03,0.5,News & Portals,El Salvador,South America
+2,3,eldiariodechihuahua.mx,47273.93,555.54,2.29,40.49,35.78,0.9,4.4,0.35,News & Portals,Mexico,South America
+2,3,elperiscopio.cl,47206.96,8916.04,14.75,89.04,99.24,1.52,116.79,1.58,News & Portals,Chile,South America
+2,3,revoluciontrespuntocero.mx,46987.01,5130.87,14.0,85.38,98.16,1.56,57.47,1.07,News & Portals,Mexico,South America
+2,3,lapatria.com,46709.13,3993.83,9.79,88.77,96.58,1.77,29.56,0.61,News & Portals,Colombia,South America
+2,3,tiempo.hn,46251.19,9147.74,20.64,91.59,95.36,1.7,77.91,0.95,News & Portals,Honduras,South America
+2,3,cuarteldelmetal.com,46143.45,5970.94,12.85,81.48,94.57,1.48,27.7,0.5,News & Portals,Mexico,South America
+2,3,fimdalinha.com.br,46059.43,24.4,0.06,76.15,69.55,1.28,0.63,1.47,News & Portals,Brazil,South America
+2,3,extra.ec,45685.2,5004.79,11.73,67.38,74.45,1.41,29.15,0.4,News & Portals,Ecuador,South America
+2,3,excelsior.com.mx,45683.3,2741.28,12.47,72.41,76.6,1.26,23.12,0.39,News & Portals,Mexico,South America
+2,3,ladiscusion.cl,45620.97,3798.77,7.59,79.87,91.05,1.46,26.13,0.69,News & Portals,Chile,South America
+2,3,poresto.net,45418.15,3469.47,6.53,68.14,75.88,1.31,27.87,0.83,News & Portals,Mexico,South America
+2,3,ibahia.com,45330.8,12961.37,30.84,75.05,97.08,1.83,46.93,0.26,News & Portals,Brazil,South America
+2,3,acidadeon.com,45310.3,2395.5,1.35,19.88,27.56,0.43,14.37,0.13,News & Portals,Brazil,South America
+2,3,ensenada.net,44133.51,3363.78,9.06,83.28,97.49,1.64,10.21,0.39,News & Portals,Mexico,South America
+2,3,eotimedopovo.com.br,43390.36,2163.93,4.82,85.1,94.06,1.58,6.1,0.27,News & Portals,Brazil,South America
+2,3,publimetro.co,43353.66,2544.45,5.42,80.89,88.62,1.7,16.49,0.72,News & Portals,Colombia,South America
+2,3,gfm.com.br,43247.49,1185.14,2.98,59.16,86.08,2.18,0.23,0.03,News & Portals,Brazil,South America
+2,3,hsbnoticias.com,43220.48,2239.71,3.64,88.65,91.44,1.74,27.19,0.49,News & Portals,Colombia,South America
+2,3,santamartaaldia.co,42708.91,2155.16,6.08,93.58,95.21,1.6,17.25,0.85,News & Portals,Colombia,South America
+2,3,extra.com.co,42568.26,1541.29,3.03,92.47,93.57,1.78,17.74,1.35,News & Portals,Colombia,South America
+2,3,conexioncapital.co,42413.25,3403.2,10.32,84.19,95.36,1.55,16.32,0.48,News & Portals,Colombia,South America
+2,3,seguimiento.co,42069.39,3554.42,7.94,84.33,89.88,1.48,15.53,0.47,News & Portals,Colombia,South America
+2,3,guatemala.com,41878.41,5962.45,12.14,81.34,95.9,1.68,50.22,0.94,News & Portals,Guatemala,South America
+2,3,ecosdelcombeima.com,41763.05,2807.29,7.24,84.87,90.07,1.5,20.33,0.71,News & Portals,Colombia,South America
+2,3,tribunadejundiai.com.br,41609.02,1364.14,2.97,84.91,97.19,1.53,5.2,0.28,News & Portals,Brazil,South America
+2,3,tudn.mx,41222.61,566.93,2.67,62.25,69.57,1.12,6.57,1.03,News & Portals,Mexico,South America
+2,3,debate.com.mx,40254.11,11253.45,29.39,80.46,88.91,1.82,12.5,0.12,News & Portals,Mexico,South America
+2,3,elmundo.cr,39684.99,2261.06,7.16,89.53,92.58,1.72,22.36,0.85,News & Portals,Costa Rica,South America
+2,3,independente.com.br,38592.61,3399.0,8.84,67.33,82.96,1.42,19.81,0.45,News & Portals,Brazil,South America
+2,3,liberdadenews.com.br,38490.33,201.83,0.81,92.12,99.11,2.39,5.75,3.86,News & Portals,Brazil,South America
+2,3,diariodamanha.com,38410.14,2644.38,8.91,85.99,99.11,1.66,21.11,0.75,News & Portals,Brazil,South America
+2,3,elsiglodedurango.com.mx,38008.19,5804.2,14.28,83.04,93.72,1.55,48.68,0.76,News & Portals,Mexico,South America
+2,3,eldinamo.cl,37654.29,3937.42,9.16,61.67,75.43,1.38,30.43,0.62,News & Portals,Argentina,South America
+2,3,diariodorio.com,37623.1,3430.02,9.71,87.65,98.88,1.52,7.66,0.27,News & Portals,Brazil,South America
+2,3,yucatan.com.mx,37576.01,4139.08,12.63,81.14,95.93,1.63,37.75,1.32,News & Portals,Mexico,South America
+2,3,rp10.com.br,37557.53,895.56,2.57,74.27,86.72,1.46,3.14,0.32,News & Portals,Brazil,South America
+2,3,venezuelaaldia.com,37373.26,1506.04,3.04,77.18,81.66,1.46,10.2,1.06,News & Portals,Venezuela,South America
+2,3,bonde.com.br,37365.73,4154.25,13.06,61.39,80.25,1.47,17.69,0.26,News & Portals,Brazil,South America
+2,3,notitarde.com,35948.65,1675.5,7.62,84.56,69.83,1.81,7.32,0.38,News & Portals,Venezuela,South America
+2,3,administradores.com.br,35577.67,13098.68,25.68,51.24,67.69,1.09,33.83,0.15,News & Portals,Brazil,South America
+2,3,giromarilia.com.br,35476.22,1776.25,5.08,87.6,98.47,1.51,12.51,0.59,News & Portals,Brazil,South America
+2,3,trespassosnews.com.br,35420.64,952.93,3.31,87.49,97.06,1.78,10.05,0.76,News & Portals,Brazil,South America
+2,3,maduradas.com,35237.9,309.13,0.9,91.49,81.09,1.65,0.55,0.19,News & Portals,Venezuela,South America
+2,3,panamaamerica.com.pa,34637.96,5093.01,16.29,67.62,93.99,1.76,4.41,0.13,News & Portals,Panama,South America
+2,3,viomundo.com.br,34182.82,12674.52,31.56,91.88,99.14,1.62,76.28,1.1,News & Portals,Brazil,South America
+2,3,infozona.com.ar,34171.66,217.53,0.66,87.31,90.54,1.54,2.24,1.25,News & Portals,Argentina,South America
+2,3,elintransigente.com,34016.94,4598.87,6.72,57.12,69.34,1.16,64.85,0.6,News & Portals,Argentina,South America
+2,3,climatempo.com.br,33791.61,4184.1,14.92,58.6,80.61,1.4,25.59,0.48,News & Portals,Brazil,South America
+2,3,canaln.pe,33495.42,2172.39,8.01,90.05,91.06,2.01,17.56,1.02,News & Portals,Peru,South America
+2,3,opinion.com.bo,33455.54,765.95,0.76,31.47,37.93,0.69,5.1,0.4,News & Portals,Bolivia,South America
+2,3,paraguay.com,33426.07,1204.0,2.99,88.43,88.04,1.65,33.56,0.97,News & Portals,Paraguay,South America
+2,3,elpinguino.com,33319.87,824.44,4.86,86.78,96.22,1.56,6.7,0.84,News & Portals,Chile,South America
+2,3,pacozea.com,33259.21,1903.87,7.19,91.5,98.05,1.59,20.53,0.82,News & Portals,Mexico,South America
+2,3,noticaribe.com.mx,33255.7,3028.25,9.45,86.03,97.52,1.65,13.46,0.45,News & Portals,Mexico,South America
+2,3,goio.news,32678.74,174.25,0.57,86.35,95.1,1.66,0.63,0.31,News & Portals,Brazil,South America
+2,3,elnorte.com,32531.35,9805.52,39.41,72.56,89.94,1.57,20.98,0.22,News & Portals,Mexico,South America
+2,3,elsoldepuebla.com.mx,32468.82,6480.71,22.06,81.6,88.43,1.57,32.1,0.43,News & Portals,Mexico,South America
+2,3,180graus.com,32447.45,2092.93,1.59,21.57,24.95,0.4,11.31,0.13,News & Portals,Brazil,South America
+2,3,eluniversal.cl,32424.37,3472.23,9.45,76.45,87.52,1.4,38.61,1.16,News & Portals,Chile,South America
+2,3,portalagresteviolento.com.br,32264.0,29.56,0.1,74.67,68.37,1.23,0.07,0.2,News & Portals,Brazil,South America
+2,3,ecbahia.com,32082.83,3775.25,12.24,83.36,98.71,1.63,22.98,0.65,News & Portals,Brazil,South America
+2,3,folhadelondrina.com.br,31704.04,7606.21,24.87,85.08,91.57,1.6,79.71,0.94,News & Portals,Brazil,South America
+2,3,nvinoticias.com,31455.27,2362.54,5.25,73.21,75.61,1.39,56.12,1.34,News & Portals,Mexico,South America
+2,3,esmaelmorais.com.br,31101.44,466.44,1.48,85.45,98.31,1.41,4.83,0.62,News & Portals,Brazil,South America
+2,3,lorealdeguerrero.com,30975.45,426.88,1.22,79.01,77.81,1.77,3.6,0.73,News & Portals,Mexico,South America
+2,3,larepublica.net,30820.44,1525.61,2.85,44.1,47.97,1.02,6.33,0.19,News & Portals,Costa Rica,South America
+2,3,reforma.com,30744.07,3498.12,14.49,72.0,84.04,1.44,16.16,0.39,News & Portals,Mexico,South America
+2,3,nacion.com,30391.06,6465.09,20.77,73.42,95.19,1.7,25.63,0.55,News & Portals,Costa Rica,South America
+2,3,muambator.com.br,29548.09,185.3,0.44,41.7,53.38,0.98,0.74,0.22,News & Portals,Brazil,South America
+2,3,quepasasalta.com.ar,29547.71,58.71,0.26,94.08,67.02,2.36,0.43,1.34,News & Portals,Argentina,South America
+2,3,republica.gt,29539.63,1841.38,6.32,71.73,77.97,1.41,15.14,0.47,News & Portals,Guatemala,South America
+2,3,paginasiete.bo,29488.39,2124.8,7.34,85.12,92.21,1.78,6.29,0.37,News & Portals,Bolivia,South America
+2,3,elpensante.com,29304.58,1997.06,6.17,70.56,79.32,1.45,5.93,0.45,News & Portals,Mexico,South America
+2,3,nsctotal.com.br,28862.5,19422.87,46.57,55.06,67.23,1.16,85.53,0.29,News & Portals,Brazil,South America
+2,3,palmeirasonline.com,28703.37,6686.94,23.36,83.3,99.5,1.56,40.51,0.59,News & Portals,Brazil,South America
+2,3,laopinion.com.co,28208.41,2868.59,12.55,91.32,95.85,1.7,29.09,1.02,News & Portals,Colombia,South America
+2,3,abcdoabc.com.br,27936.37,1459.84,5.46,84.03,98.28,1.52,5.29,0.41,News & Portals,Brazil,South America
+2,3,rosarioplus.com,27674.14,390.14,1.4,69.98,87.69,1.65,2.12,0.57,News & Portals,Argentina,South America
+2,3,deperu.com,27606.26,2555.92,5.07,54.41,64.3,1.2,21.22,0.58,News & Portals,Peru,South America
+2,3,elinformadorchile.cl,26837.11,1265.24,3.95,90.99,96.41,1.52,20.36,1.36,News & Portals,Chile,South America
+2,3,publimetro.com.mx,26808.03,6477.22,21.37,68.61,93.74,1.74,10.63,0.25,News & Portals,Mexico,South America
+2,3,lagacetasalta.com.ar,26740.67,2484.44,7.74,87.77,58.54,1.5,19.67,0.73,News & Portals,Argentina,South America
+2,3,portalbr7.com,26628.42,7.75,0.03,77.15,75.51,1.4,0.17,1.4,News & Portals,Brazil,South America
+2,3,futuro.cl,26600.85,3620.88,14.52,82.49,97.73,1.56,28.58,0.72,News & Portals,Chile,South America
+2,3,portalt5.com.br,26520.36,3924.3,12.31,75.37,98.24,1.68,42.13,1.12,News & Portals,Brazil,South America
+2,3,publico.es,26474.31,743.63,2.99,86.08,86.38,1.66,6.63,0.8,News & Portals,Mexico,South America
+2,3,abc.com.py,25916.37,2705.95,5.22,36.3,48.13,0.83,17.75,0.26,News & Portals,Argentina,South America
+2,3,climate-data.org,25788.48,2951.97,11.29,82.06,97.8,1.67,17.21,0.59,News & Portals,Brazil,South America
+2,3,ultimahora.com,25164.9,166.96,0.33,9.27,10.0,0.24,1.89,0.08,News & Portals,Paraguay,South America
+2,3,portalcaparao.com.br,24765.57,2526.43,10.23,86.38,99.05,1.65,16.61,0.73,News & Portals,Brazil,South America
+2,3,afondoedomex.com,24759.25,114.25,0.45,91.31,100.0,1.48,0.5,0.6,News & Portals,Mexico,South America
+2,3,diariohuarpe.com,24700.84,525.5,1.46,60.78,65.63,1.24,3.21,0.48,News & Portals,Bolivia,South America
+2,3,emol.com,24536.08,319.45,1.42,75.77,88.62,1.59,2.5,0.89,News & Portals,Chile,South America
+2,3,hnt.com.br,24365.88,358.62,1.68,90.43,96.61,1.68,2.54,0.64,News & Portals,Brazil,South America
+2,3,eventossantamarta.com,24343.28,810.78,4.5,92.43,93.05,1.52,6.81,0.76,News & Portals,Colombia,South America
+2,3,hipernoticias.com.br,23458.84,3901.47,16.36,82.82,91.39,1.82,29.6,0.63,News & Portals,Brazil,South America
+2,3,lapadalapada.com.br,23184.32,566.24,2.58,87.57,95.16,1.78,3.59,0.7,News & Portals,Brazil,South America
+2,3,ederluiz.com.vc,22915.85,5755.27,27.47,87.01,99.71,1.65,24.43,0.53,News & Portals,Brazil,South America
+2,3,infocielo.com,22566.74,2500.43,10.6,93.76,70.79,1.5,14.57,0.56,News & Portals,Argentina,South America
+2,3,carlosbritto.com,22388.03,994.7,3.91,73.09,82.75,1.35,4.75,0.37,News & Portals,Brazil,South America
+2,3,publimetro.pe,22382.35,3882.31,9.55,49.04,59.69,0.95,23.68,0.29,News & Portals,Peru,South America
+2,3,extraderondonia.com.br,22075.42,802.29,3.89,72.51,80.36,1.38,4.43,0.51,News & Portals,Brazil,South America
+2,3,el-mexicano.com.mx,22012.02,3770.1,16.79,87.86,98.6,1.65,18.16,0.55,News & Portals,Mexico,South America
+2,3,altonivel.com.mx,21576.14,5416.59,28.33,84.82,97.57,1.62,24.66,0.44,News & Portals,Mexico,South America
+2,3,infocors.com.br,21391.15,164.98,1.01,89.65,92.88,1.51,0.47,0.21,News & Portals,Brazil,South America
+2,3,uai.com.br,21200.23,11021.02,48.53,80.67,99.56,1.76,45.82,0.45,News & Portals,Brazil,South America
+2,3,diariolasamericas.com,21160.88,1968.97,9.16,89.89,95.35,1.78,20.42,1.0,News & Portals,Venezuela,South America
+2,3,hola.com,20886.43,912.68,2.1,38.46,41.92,0.77,21.75,0.68,News & Portals,Mexico,South America
+2,3,caretas.pe,20816.35,3035.04,13.32,83.43,94.22,1.6,20.72,0.59,News & Portals,Peru,South America
+2,3,laprensa.com.ni,20347.5,29.7,0.13,82.75,12.14,1.89,0.05,0.1,News & Portals,Nicaragua,South America
+2,4,1news.com.br,978111.17,138521.25,7.46,45.6,55.03,0.93,562.39,0.23,News & Portals,Brazil,South America
+2,4,laverdadnoticias.com,835287.53,224538.68,27.08,86.63,97.61,1.61,3274.48,1.54,News & Portals,Mexico,South America
+2,4,correiobraziliense.com.br,809165.13,160481.85,23.23,72.29,97.47,1.66,743.64,0.51,News & Portals,Brazil,South America
+2,5,minuto30.com,723142.71,25176.75,3.77,84.01,93.64,1.71,149.09,0.64,News & Portals,Colombia,South America
+2,5,elcomercio.com,634105.07,55717.99,23.56,80.02,88.42,1.55,394.73,0.61,News & Portals,Ecuador,South America
+2,5,listindiario.com,597021.25,73023.64,12.73,80.39,95.52,1.68,895.53,1.33,News & Portals,Dominican Republic,South America
+2,5,las2orillas.co,595872.85,53715.03,10.06,90.54,95.17,1.74,382.36,0.77,News & Portals,Colombia,South America
+2,5,ig.com.br,563212.33,81244.98,39.4,73.01,97.32,1.85,144.69,0.2,News & Portals,Brazil,South America
+2,5,cooperativa.cl,543338.73,39333.81,7.69,71.68,94.42,1.51,425.4,0.94,News & Portals,Chile,South America
+2,5,mi.tv,526306.28,15914.22,3.13,80.07,93.64,1.56,105.93,0.75,News & Portals,Argentina,South America
+2,5,elmostrador.cl,501339.68,26034.97,5.65,85.86,96.03,1.55,218.96,0.86,News & Portals,Chile,South America
+2,6,diariocambio.com.mx,282756.57,13837.36,6.13,89.59,96.86,1.65,107.39,0.94,News & Portals,Mexico,South America
+2,6,elpais.com.co,279211.62,35200.41,12.67,79.27,96.16,1.75,125.71,0.42,News & Portals,Colombia,South America
+2,6,otempo.com.br,267835.47,84119.29,37.28,82.76,99.57,1.77,314.94,0.4,News & Portals,Brazil,South America
+2,6,elsiglodetorreon.com.mx,267258.9,21766.99,8.41,81.19,95.32,1.69,113.8,0.64,News & Portals,Mexico,South America
+2,6,eldestapeweb.com,267055.8,4601.32,5.22,79.22,56.62,1.6,45.14,0.75,News & Portals,Argentina,South America
+2,6,lavoz.com.ar,265006.61,13827.18,7.04,82.03,90.8,1.44,108.99,0.64,News & Portals,Argentina,South America
+2,6,larepublica.pe,254240.57,15844.46,8.85,84.29,95.05,1.7,101.35,0.67,News & Portals,Peru,South America
+2,6,lacapitalmdp.com,249317.4,9092.83,3.56,88.83,83.07,1.5,112.93,1.19,News & Portals,Argentina,South America
+2,6,montevideo.com.uy,231012.11,11627.0,5.2,84.14,93.71,1.81,126.89,0.84,News & Portals,Uruguay,South America
+2,6,diarioextra.com,221650.46,14671.45,6.71,87.96,96.39,1.69,94.32,0.59,News & Portals,Costa Rica,South America
+2,6,tvn-2.com,205947.18,32165.93,19.1,83.11,97.02,1.62,294.65,0.87,News & Portals,Panama,South America
+2,6,elblog.com,204868.67,12361.8,6.25,83.8,93.3,1.75,169.05,1.29,News & Portals,El Salvador,South America
+2,6,em.com.br,202106.87,50333.55,26.86,73.36,98.94,1.64,213.3,0.42,News & Portals,Brazil,South America
+2,6,chapintv.com,197119.8,14581.17,7.24,85.35,94.97,1.74,171.15,1.17,News & Portals,Guatemala,South America
+2,6,elespectador.com,195351.1,30381.97,21.89,72.78,84.71,1.42,152.01,0.42,News & Portals,Colombia,South America
+2,6,latercera.com,193635.38,27097.29,12.76,87.58,96.7,1.57,209.77,0.73,News & Portals,Chile,South America
+2,6,adnradio.cl,192821.03,15267.15,8.18,82.81,97.21,1.59,160.41,1.03,News & Portals,Chile,South America
+2,6,lapatilla.com,190465.39,3740.32,2.01,54.77,65.3,1.34,32.7,0.56,News & Portals,Venezuela,South America
+2,6,noticiasaldiayalahora.co,182681.57,2914.57,1.63,82.39,91.12,1.68,33.48,1.3,News & Portals,Venezuela,South America
+2,6,eldeber.com.bo,182260.74,5466.4,5.57,86.81,95.5,1.62,57.44,0.97,News & Portals,Bolivia,South America
+2,6,elnacional.com,177306.32,2317.92,1.63,65.8,83.42,1.51,13.85,0.36,News & Portals,Venezuela,South America
+2,6,hojeemdia.com.br,175593.88,14583.75,8.64,70.95,94.0,1.53,58.7,0.38,News & Portals,Brazil,South America
+2,6,metrojornal.com.br,175507.7,36307.59,21.66,75.28,97.08,1.59,351.63,0.74,News & Portals,Brazil,South America
+2,6,pulzo.com,170735.07,31806.71,19.13,92.49,97.99,1.64,219.41,0.8,News & Portals,Colombia,South America
+2,6,canalrcn.com,169424.27,31529.32,20.74,79.06,89.37,1.53,245.53,0.49,News & Portals,Colombia,South America
+2,6,viapais.com.ar,167411.03,2927.84,3.81,70.82,75.76,1.34,22.34,0.83,News & Portals,Venezuela,South America
+2,6,ecuavisa.com,166460.28,19721.46,16.19,86.36,94.66,1.78,177.5,0.98,News & Portals,Ecuador,South America
+3,1,gogy.com,266097.24,31813.21,10.84,51.86,63.73,1.09,195.47,0.42,Tech & Gaming,Russia,East Europe
+3,1,indosport.com,264896.61,1440.78,0.52,83.47,94.67,1.58,3.51,0.36,Sports,Indonesia,Asia
+3,1,giaoducthoidai.vn,262216.57,12187.75,3.78,68.43,77.82,1.5,4.02,0.03,Education & Careers,Vietnam,Asia
+3,1,finanz.ru,256606.88,36650.26,16.7,85.02,97.05,1.54,12.93,0.06,Money & Investing,Russia,East Europe
+3,1,game24h.vn,242189.42,1018.22,0.23,41.82,37.64,0.89,4.31,0.18,Tech & Gaming,Vietnam,Asia
+3,1,eliteprospects.com,229475.33,34571.33,15.18,72.12,98.37,2.0,83.83,0.24,Sports,Canada,North America
+3,1,notore.us,223289.96,2555.76,1.11,75.66,87.43,1.97,0.11,0.01,Community & Culture,United States,North America
+3,1,pilio.idv.tw,221515.13,11725.83,5.33,87.36,99.39,1.83,158.21,1.16,Casual Games,Taiwan,Asia
+3,1,bestie.vn,211848.89,5478.79,2.8,84.0,93.06,1.67,11.42,0.24,Community & Culture,Vietnam,Asia
+3,1,sib.fm,211661.94,43110.65,22.11,85.55,94.9,1.51,66.55,0.31,Community & Culture,Russia,East Europe
+3,1,lelum.pl,198411.51,27236.94,6.62,38.31,50.59,0.78,310.94,0.42,Health & Wellness,Poland,East Europe
+3,1,musica.com,197474.26,40659.62,31.46,84.05,92.8,1.56,160.98,0.43,Music & Radio,United States,North America
+3,1,typingtest.com,195651.5,83235.65,41.36,95.28,99.54,1.75,59.52,0.08,Tech & Gaming,United States,North America
+3,1,echo.msk.ru,195468.78,21194.54,5.48,25.87,32.12,0.61,160.51,0.22,Music & Radio,Russia,East Europe
+3,1,price.com.hk,192864.07,19008.52,10.02,71.07,98.58,1.67,19.35,0.11,Shopping,Hong Kong,Asia
+3,1,bongda.com.vn,192519.08,8730.63,2.88,83.36,94.32,1.68,42.12,0.26,Sports,Vietnam,Asia
+3,1,fosonline.gr,181352.89,7505.56,3.27,55.29,75.4,1.2,52.6,0.63,Sports,Greece,East Europe
+3,1,ngoisao.vn,179208.1,2997.1,1.89,88.06,99.72,1.82,3.3,0.12,Glamour,Vietnam,Asia
+3,1,cari.com.my,176555.66,3175.68,1.31,56.11,70.81,1.26,23.55,0.49,Tech & Gaming,Malaysia,Asia
+3,1,wowbiz.ro,169467.57,4659.79,2.44,77.56,73.39,1.46,10.0,0.18,Glamour,Romania,East Europe
+3,1,wallpaperaccess.com,167955.86,2801.57,1.54,73.82,80.22,1.38,15.43,0.43,Leisure,United States,North America
+3,1,ohme.pl,166018.46,13221.25,8.44,85.35,97.54,1.52,111.75,0.85,Health & Wellness,Poland,East Europe
+3,1,wikidich.com,163687.68,5014.9,3.03,79.26,91.6,1.69,32.23,0.73,Community & Culture,Vietnam,Asia
+3,1,recipepair.com,157940.64,26505.93,13.01,95.24,98.51,1.86,0.43,0.0,Food,United States,North America
+3,2,eurogamer.pl,65981.85,2851.9,6.64,84.24,92.74,1.5,7.45,0.28,Tech & Gaming,Poland,East Europe
+3,2,gtaall.com,65277.25,568.87,0.96,77.26,90.9,1.82,3.51,0.65,Tech & Gaming,India,Asia
+3,2,fragrantica.com,64598.44,10509.92,5.77,17.61,30.78,0.54,26.85,0.05,Community & Culture,Saudi Arabia,Arabia
+3,2,receptite.com,64049.74,903.13,1.42,86.3,97.8,1.69,8.24,0.86,Food,Bulgaria,East Europe
+3,2,teleculinaria.pt,63215.39,3990.18,4.94,68.33,74.77,1.52,13.29,0.29,Food,Portugal,West Europe
+3,2,olevod.eu,61985.68,4020.27,5.86,70.18,90.75,1.97,12.57,0.41,Movies & Television,Malaysia,Asia
+3,2,superhry.cz,61189.46,4176.08,6.26,65.08,83.24,1.27,15.33,0.32,Casual Games,Czech Republic,East Europe
+3,2,gamekit.com,61023.65,1936.9,3.36,61.96,96.37,1.71,3.65,0.34,Tech & Gaming,United States,North America
+3,2,fortnitepolska.pl,60823.33,538.86,0.89,70.09,82.87,1.37,4.3,0.62,Tech & Gaming,Poland,East Europe
+3,2,gestiopolis.com,60679.05,7532.83,10.45,66.7,81.75,1.79,31.28,0.18,Money & Investing,China,Asia
+3,2,instadp.com,59691.41,972.59,0.95,30.12,42.72,0.99,3.34,0.17,Community & Culture,United States,North America
+3,2,onlyu.cz,59312.49,6979.82,6.17,34.68,41.28,0.7,40.67,0.21,Community & Culture,Czech Republic,East Europe
+3,2,newstechtime.com,59158.72,20660.21,25.02,51.37,65.26,1.38,1.84,0.01,Tech & Gaming,United States,North America
+3,2,diariogol.com,57993.8,10045.74,17.01,74.3,96.67,1.8,74.77,0.84,Sports,Spain,West Europe
+3,2,refresher.sk,57594.85,12233.84,22.01,87.8,96.63,1.47,205.07,1.75,Community & Culture,Slovakia,East Europe
+3,2,tvgids.tv,57575.25,5055.03,8.45,69.45,88.98,1.69,18.94,0.34,Movies & Television,Netherlands,West Europe
+3,2,mejoress.com,56709.87,15930.79,20.65,63.68,76.94,1.35,8.99,0.04,Community & Culture,United States,North America
+3,2,sciaga.pl,56609.58,1362.97,1.86,59.31,68.33,1.07,10.8,1.14,Education & Careers,Poland,East Europe
+3,2,kissthemgoodbye.net,55781.21,166.49,0.23,53.42,70.21,1.37,0.63,0.27,Movies & Television,United States,North America
+3,2,hellosehat.com,54970.54,225.69,0.38,73.78,76.55,1.32,1.22,0.34,Health & Wellness,Indonesia,Asia
+3,2,ultimatespecs.com,54469.04,3770.03,6.83,78.5,96.39,1.59,15.01,0.39,Autos,Portugal,West Europe
+3,2,profesorjitaruionel.com,54127.2,4691.0,9.83,80.12,98.72,1.56,16.65,0.5,Education & Careers,Romania,East Europe
+3,2,twice.se,53383.47,1819.95,3.39,85.69,95.52,1.5,15.89,0.87,Community & Culture,Sweden,West Europe
+3,2,ifaucet.us,53247.88,868.97,1.6,72.51,92.55,2.01,0.48,0.07,Leisure,India,Asia
+3,2,comuniate.com,53042.16,2153.16,3.54,34.85,48.76,1.03,12.78,0.21,Sports,Spain,West Europe
+3,2,epop.my,52471.38,7650.36,10.41,83.64,89.83,1.52,22.39,0.25,Glamour,Taiwan,Asia
+3,2,diez.hn,52431.79,3484.16,6.11,79.49,93.22,1.66,22.13,0.59,Sports,Spain,West Europe
+3,2,crazydaysandnights.net,52228.38,3874.75,3.25,24.3,35.38,0.62,6.65,0.04,Community & Culture,United States,North America
+3,2,u.gg,49331.0,32114.88,14.45,46.67,63.48,1.24,7.51,0.02,Tech & Gaming,United States,North America
+3,2,fangol.pl,48610.55,2010.62,3.69,80.58,96.72,1.58,4.75,0.26,Sports,Poland,East Europe
+3,2,prosport.ro,48536.27,199.52,4.53,22.51,32.48,0.62,1.04,0.08,Sports,Romania,East Europe
+3,2,businesstraveller.com,48294.34,2301.83,5.47,84.7,96.76,1.54,15.02,0.56,Travel,United Kingdom,West Europe
+3,2,skijumping.pl,48177.63,634.75,1.43,59.72,70.79,1.16,6.85,0.71,Sports,Poland,East Europe
+3,2,pop.games,47971.33,251.0,0.73,62.69,78.94,1.67,2.67,1.19,Tech & Gaming,United States,North America
+3,2,eurogamer.es,47771.27,7317.57,15.9,80.57,97.79,1.71,24.66,0.35,Tech & Gaming,Spain,West Europe
+3,2,techbang.com,47707.46,5370.05,13.14,81.43,97.63,1.85,17.84,0.28,Tech & Gaming,Taiwan,Asia
+3,2,poezdato.net,47620.14,3528.57,5.18,71.6,83.97,1.38,30.2,0.68,Travel,Ukraine,East Europe
+3,2,memedroid.com,47505.58,4391.34,9.47,68.54,93.99,1.68,36.91,0.88,Community & Culture,United States,North America
+3,2,y8.com,46843.17,1144.0,17.38,61.48,61.41,0.65,20.42,0.38,Tech & Gaming,Vietnam,Asia
+3,2,justcnw.com,46345.68,1098.27,5.5,68.72,95.26,1.83,0.65,0.06,Education & Careers,Japan,Asia
+3,2,kibice.net,46118.56,802.81,1.55,79.53,94.95,1.57,4.41,0.64,Sports,Poland,East Europe
+3,2,resourcepack.net,44861.92,10795.62,13.66,45.18,67.32,1.18,5.26,0.04,Tech & Gaming,Spain,West Europe
+3,2,adshort.biz,44828.91,612.27,1.26,72.14,60.14,1.87,0.82,0.08,Money & Investing,United States,North America
+3,2,ucrazy.ru,44305.0,0.46,0.0,30.77,24.36,0.46,0.0,0.0,Leisure,Russia,East Europe
+3,2,csid.ro,43089.58,71.45,3.13,37.83,47.97,0.77,0.24,0.23,Health & Wellness,Romania,East Europe
+3,2,ilacweb.com,42960.86,242.42,0.14,25.68,28.8,0.51,1.33,0.07,Health & Wellness,Turkey,West Europe
+3,2,parallaximag.gr,42865.09,922.32,1.62,36.3,42.09,0.64,5.85,0.27,Community & Culture,Greece,East Europe
+3,2,plangeneralcontable.com,42457.19,6822.91,17.66,80.67,97.8,1.82,8.01,0.14,B-to-B,Spain,West Europe
+3,2,everyeye.it,42403.15,2195.38,7.76,77.89,87.61,1.3,13.54,0.26,Tech & Gaming,Italy,West Europe
+3,2,e-sante.fr,42192.31,19652.42,43.62,74.72,89.34,1.5,103.58,0.48,Health & Wellness,France,West Europe
+3,2,cliphash.com,42160.09,1749.65,2.81,59.88,69.34,1.94,0.03,0.01,Shopping,United States,North America
+3,2,alloutkings.com,40801.7,10819.78,7.36,60.54,60.16,1.9,0.39,0.0,Sports,United States,North America
+3,2,uploadrar.com,40729.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tech & Gaming,United States,North America
+3,2,testsworld.net,40495.75,3389.99,7.87,84.42,97.02,1.63,27.54,0.86,B-to-B,Italy,West Europe
+3,2,starhit.ru,39894.63,1886.39,2.34,32.88,30.9,0.65,8.52,0.16,Glamour,Russia,East Europe
+3,2,kanald.ro,39850.03,1936.67,6.46,33.01,34.95,0.63,12.82,0.25,Movies & Television,Romania,East Europe
+3,2,megacritic.ru,39747.25,73.1,0.17,81.32,89.91,1.65,0.35,0.3,Movies & Television,Russia,East Europe
+3,2,transfery.info,39691.69,2132.21,2.17,34.36,39.09,0.69,7.08,0.16,Sports,Poland,East Europe
+3,2,boop.pl,39686.85,1958.02,2.21,31.61,43.61,0.69,8.44,0.12,Tech & Gaming,Poland,East Europe
+3,2,bongda24h.vn,39166.55,1764.59,3.05,62.63,67.01,1.37,1.45,0.05,Sports,Vietnam,Asia
+3,2,sportskeeda.com,39164.94,11338.79,20.32,48.42,53.4,1.07,94.68,0.36,Sports,India,Asia
+3,2,appropriateliving.com,38606.26,1921.18,5.33,80.29,98.78,1.57,30.49,1.64,Community & Culture,United States,North America
+3,2,imged.pl,38595.12,399.78,1.0,76.4,77.69,1.67,1.94,0.52,Tech & Gaming,Poland,East Europe
+3,2,hkgolden.com,38258.08,276.2,3.22,84.69,95.69,1.7,0.32,0.27,Tech & Gaming,Hong Kong,Asia
+3,2,uwants.com,37630.02,2137.4,5.53,70.26,96.33,1.84,4.08,0.22,Tech & Gaming,Hong Kong,Asia
+3,2,pequerecetas.com,36986.71,14237.91,19.16,35.32,54.36,0.96,125.96,0.28,Food,Spain,West Europe
+3,2,your.gg,36928.3,99.68,0.15,16.75,25.0,0.49,0.12,0.01,Tech & Gaming,South Korea,Asia
+3,2,onlinetvrecorder.com,36448.64,2132.03,5.75,72.83,85.21,1.65,3.42,0.16,Movies & Television,Germany,West Europe
+3,2,circleofcricket.com,36265.05,1517.82,4.59,83.35,97.65,1.95,8.28,0.38,Sports,India,Asia
+3,2,gamespew.com,36092.09,4966.36,15.64,57.93,94.18,1.57,20.09,0.3,Tech & Gaming,United States,North America
+3,2,baby.ru,35127.67,1.25,0.25,15.0,16.67,0.15,0.0,0.0,Family & Parenting,Russia,East Europe
+3,2,dogry.pl,34787.63,0.73,0.0,11.31,28.57,0.47,0.0,0.0,Tech & Gaming,Poland,East Europe
+3,2,velvetgossip.it,34708.44,865.74,1.83,68.04,81.58,1.38,4.98,0.45,Glamour,Italy,West Europe
+3,2,kadogagnant.ca,33921.62,18.0,0.05,68.07,84.62,1.38,0.0,0.0,Leisure,Canada,North America
+3,2,finanzmarktwelt.de,33282.43,23762.47,45.92,55.74,65.96,1.09,149.3,0.56,Money & Investing,Austria,West Europe
+3,2,memepedia.ru,33045.0,7.33,0.02,78.81,78.1,1.44,0.17,1.28,Community & Culture,Russia,East Europe
+3,2,goody25.com,32929.94,1915.68,5.38,82.95,95.31,1.63,5.58,0.32,Community & Culture,Malaysia,Asia
+3,2,blaugrana.pl,32311.64,3501.96,8.65,87.01,96.0,1.48,8.6,0.24,Sports,Poland,East Europe
+3,2,studref.com,32224.93,20.57,0.2,42.34,45.43,0.82,0.03,0.01,Education & Careers,Russia,East Europe
+3,2,netzkino.de,32138.8,5011.56,13.88,70.17,85.6,1.57,42.24,0.75,Movies & Television,Germany,West Europe
+3,2,chrysanthemumgarden.com,31950.45,2502.76,3.56,25.27,44.27,0.76,8.7,0.1,Community & Culture,Philippines,Asia
+3,2,a4-klub.pl,31138.08,1009.36,2.67,68.56,76.53,1.26,3.93,0.38,Autos,Poland,East Europe
+3,2,champion.gg,30404.75,8943.09,31.12,78.59,98.98,1.69,5.26,0.06,Tech & Gaming,Poland,East Europe
+3,2,geissblog.koeln,30371.2,4662.7,15.47,84.31,97.01,1.55,36.99,0.7,Sports,Germany,West Europe
+3,2,abctelefonos.com,30281.75,177.95,0.26,27.28,21.75,0.45,1.2,0.13,Community & Culture,Spain,West Europe
+3,2,girlsplay.com,30265.06,1254.73,3.98,72.38,91.27,1.47,13.65,1.04,Tech & Gaming,United States,North America
+3,2,mundodeportivo.com,30258.7,2557.26,8.57,75.99,95.1,1.62,6.54,0.27,Sports,Spain,West Europe
+3,2,peanutimes.com,30099.48,5.47,1.41,39.57,41.58,0.78,0.0,0.0,Community & Culture,Taiwan,Asia
+3,2,fruitlab.com,30070.81,355.28,1.6,75.51,87.61,1.88,0.94,0.37,Tech & Gaming,Italy,West Europe
+3,2,naked-science.ru,30055.89,49.61,0.16,93.6,96.51,1.59,0.06,0.06,Tech & Gaming,Russia,East Europe
+3,2,sportsplays.com,30018.89,6753.0,21.93,75.26,96.98,2.11,6.59,0.1,Sports,United States,North America
+3,2,klamm.de,29993.68,1726.84,5.59,63.87,81.07,1.37,8.32,0.42,Money & Investing,Germany,West Europe
+3,2,thegioidienanh.vn,29824.27,501.94,2.31,88.65,97.32,1.69,1.66,0.32,Movies & Television,Vietnam,Asia
+3,2,modmcpe.net,29702.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tech & Gaming,Russia,East Europe
+3,2,gamerescape.com,28834.07,18887.57,85.34,68.6,98.84,1.91,34.71,0.23,Tech & Gaming,United States,North America
+3,2,viralistas.com,28449.4,4321.15,12.5,82.11,90.56,1.54,59.89,1.16,Community & Culture,United States,North America
+3,2,indiatimes.com,27941.21,10666.83,26.95,61.44,96.14,1.74,10.72,0.1,Community & Culture,United States,North America
+3,2,jenesaispop.com,27713.98,3990.17,14.19,78.32,93.37,1.63,16.54,0.85,Glamour,Spain,West Europe
+3,2,dramafansubs.net,27370.06,10571.5,33.71,70.24,90.53,1.54,153.03,1.48,Movies & Television,Portugal,West Europe
+3,2,gamingdose.com,27071.12,2174.15,8.06,78.12,95.08,1.51,8.9,0.36,Tech & Gaming,Thailand,Asia
+3,2,savefrom.net,27025.67,2.11,21.76,53.7,51.85,0.7,0.0,0.0,Tech & Gaming,India,Asia
+3,2,game735.com,26920.95,805.66,2.96,77.62,97.22,1.81,0.8,0.1,Tech & Gaming,Taiwan,Asia
+3,2,designyoutrust.com,26914.46,17463.17,63.38,85.99,94.41,1.86,68.65,0.37,Community & Culture,United States,North America
+3,2,eorzeacollection.com,26539.53,2436.36,6.48,45.06,69.0,1.29,6.39,0.17,Tech & Gaming,United States,North America
+3,2,girlg.com,26370.85,638.02,2.32,71.22,87.86,1.38,5.88,0.81,Tech & Gaming,United States,North America
+3,2,marca.com,25588.16,4873.45,22.37,77.86,91.28,1.54,11.09,0.24,Sports,United Kingdom,West Europe
+3,2,dailycannon.com,25573.86,6574.59,21.63,84.46,97.11,1.56,44.86,0.6,Sports,United Kingdom,West Europe
+3,2,promotor.ro,25527.86,48.76,4.12,18.09,28.53,0.49,0.29,0.91,Autos,Romania,East Europe
+3,2,conadrogach.pl,25393.67,1000.62,3.62,85.01,96.15,1.58,9.01,0.83,Travel,Poland,East Europe
+3,2,gamebrott.com,25333.44,1962.96,6.05,63.89,75.0,1.22,6.99,0.38,Tech & Gaming,Indonesia,Asia
+3,2,sovsport.ru,25126.03,10483.41,41.89,87.07,94.29,1.78,16.36,0.16,Sports,Russia,East Europe
+3,2,sarangoppa.com,25035.02,3204.01,13.73,90.12,95.41,1.65,5.18,0.18,Movies & Television,Taiwan,Asia
+3,2,the-news-mag.de,24972.54,814.55,2.2,48.83,63.25,1.25,3.17,0.34,Health & Wellness,Germany,West Europe
+3,2,mercantil.com,24701.95,1432.18,4.71,71.92,94.54,1.59,4.64,0.52,Money & Investing,United States,North America
+3,2,abandomoviez.net,24412.5,84.5,0.3,78.81,85.14,1.36,3.0,1.9,Movies & Television,Spain,West Europe
+3,2,namaanakperempuan.net,24227.34,492.23,1.92,87.43,94.9,1.6,2.68,0.63,Family & Parenting,Indonesia,Asia
+3,2,mypt3.com,23964.39,1132.54,4.58,73.17,87.84,1.38,4.94,0.24,Money & Investing,Malaysia,Asia
+3,2,yourmoney.com,23950.06,9939.98,43.11,78.82,94.31,1.45,102.46,0.9,Money & Investing,United Kingdom,West Europe
+3,2,tokyvideo.com,23918.67,821.67,3.49,88.52,99.0,1.57,7.67,1.03,Community & Culture,Spain,West Europe
+3,2,kaskus.co.id,23657.13,1515.52,6.55,73.6,88.22,1.66,16.57,1.11,Movies & Television,Indonesia,Asia
+3,2,thekdaily.com,23604.38,5237.18,22.7,90.49,99.04,1.75,20.11,0.38,Glamour,Taiwan,Asia
+3,2,technical.city,23278.16,3526.87,10.42,56.63,67.29,1.17,5.93,0.12,Tech & Gaming,Greece,East Europe
+3,2,xtra.com.my,23224.94,2530.89,11.36,82.81,99.92,1.55,24.74,1.41,Movies & Television,Malaysia,Asia
+3,2,meridiano.com.ve,23083.77,4658.57,15.75,63.11,74.81,1.34,22.7,0.42,Sports,United States,North America
+3,2,e-prawnik.pl,23039.77,1137.52,4.98,83.13,91.11,1.5,7.35,0.58,Travel,Poland,East Europe
+3,2,etydzien.pl,23026.63,1957.87,1.94,26.52,23.88,0.46,7.65,0.1,Leisure,Poland,East Europe
+3,2,coveralia.com,22787.36,569.9,1.5,46.45,57.43,1.03,1.26,0.13,Music & Radio,Spain,West Europe
+3,2,bayilelakiku.com,22481.37,67.12,0.26,80.95,73.36,1.55,1.02,1.27,Family & Parenting,Indonesia,Asia
+3,2,refresher.cz,22225.69,1282.87,5.99,86.11,97.77,1.47,3.98,0.43,Glamour,Czech Republic,East Europe
+3,2,kfetele.ro,22120.91,893.17,13.19,49.78,53.48,0.89,12.22,0.67,Glamour,Romania,East Europe
+3,2,modelocurriculum.net,22094.02,4693.13,21.82,84.49,96.78,1.64,40.16,0.89,B-to-B,Spain,West Europe
+3,2,citatepedia.ro,21902.0,4.4,0.02,92.5,100.0,1.59,0.0,0.0,Community & Culture,Romania,East Europe
+3,2,pequeocio.com,21539.35,2606.41,6.53,44.7,57.42,1.09,18.83,0.33,Leisure,Spain,West Europe
+3,2,woozworld.com,21396.28,856.75,3.83,83.58,99.24,1.86,1.47,0.21,Glamour,United States,North America
+3,2,acidcow.com,21183.23,418.14,2.04,87.97,98.07,1.93,0.23,0.03,Leisure,United States,North America
+3,2,teatv.net,21161.26,540.58,2.46,71.07,99.06,2.2,2.21,0.41,Movies & Television,United Kingdom,West Europe
+3,2,menurutparaahli.com,21148.81,339.49,1.24,92.97,95.63,1.78,2.44,0.89,Community & Culture,Indonesia,Asia
+3,2,applealmond.com,21060.94,2547.78,8.89,81.99,97.83,1.9,4.42,0.14,Tech & Gaming,Taiwan,Asia
+3,2,onlymen.cz,21025.85,552.99,2.93,37.78,35.8,0.68,1.59,0.06,Family & Parenting,Czech Republic,East Europe
+3,2,raposafixe.pt,20621.0,300.0,2.87,93.07,100.0,2.03,3.67,0.87,Leisure,Portugal,West Europe
+3,2,sosugary.com,20479.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Glamour,United States,North America
+3,2,andreahedenstedt.se,20419.09,516.76,2.22,71.84,91.84,1.72,0.73,0.11,Community & Culture,Sweden,West Europe
+3,2,dramaqueen.com.tw,20359.16,938.99,4.27,83.26,99.78,1.91,2.64,0.26,Movies & Television,Taiwan,Asia
+3,2,financasnews.com,20326.96,59.98,0.2,60.82,64.21,1.25,0.1,0.05,Money & Investing,United States,North America
+3,2,critch-comedy.de,20168.33,231.0,1.14,98.28,99.92,1.6,0.0,0.0,Leisure,Germany,West Europe
+3,3,memurlar.net,2739246.93,8942.44,0.6,83.8,92.72,1.59,46.82,0.46,Health & Wellness,Turkey,West Europe
+3,4,gimy.tv,917792.52,34729.35,17.19,74.58,88.06,1.59,355.35,0.85,Movies & Television,Taiwan,Asia
+3,4,olevod.com,672048.38,64357.32,9.76,72.17,94.1,1.99,235.3,0.38,Movies & Television,United States,North America
+3,4,storyinsta.com,634961.6,13314.47,2.23,78.46,91.12,1.54,141.24,0.95,Community & Culture,United States,North America
+3,5,finanznachrichten.de,490576.38,64051.55,14.63,65.67,95.91,1.58,309.34,0.52,Money & Investing,Germany,West Europe
+3,5,nouw.com,481133.15,15177.09,3.8,81.91,97.16,1.52,59.69,0.39,Glamour,Sweden,West Europe
+3,5,nacionalloteria.es,414713.29,64.0,0.03,90.22,87.7,1.85,0.0,0.0,Money & Investing,Spain,West Europe
+3,5,ttshow.tw,383342.75,20803.25,6.68,89.07,95.94,1.7,38.45,0.17,Glamour,Taiwan,Asia
+3,5,pictame.com,379777.77,3858.92,0.32,24.42,30.19,0.51,20.54,0.13,Tech & Gaming,Saudi Arabia,Arabia
+3,5,yan.vn,374599.85,10661.94,2.65,68.31,82.85,1.48,24.11,0.18,Community & Culture,Vietnam,Asia
+3,5,xem.vn,358081.83,1863.47,0.27,42.71,43.29,0.9,4.3,0.12,Community & Culture,Vietnam,Asia
+3,5,grid.id,337455.89,8030.08,16.86,69.66,90.37,1.58,51.88,0.57,Glamour,Indonesia,Asia
+3,5,thethao247.vn,334065.42,3186.85,0.89,71.52,81.95,1.76,3.85,0.1,Sports,Vietnam,Asia
+3,5,dak.gg,331568.15,2143.59,0.63,71.17,98.66,1.68,6.85,0.2,Tech & Gaming,South Korea,Asia
+3,5,techandgeek.com,328418.7,7884.51,2.21,79.57,81.33,1.88,0.62,0.02,Tech & Gaming,United States,North America
+3,5,behindwoods.com,321474.3,14517.01,4.96,83.79,98.3,1.63,112.57,0.73,Community & Culture,India,Asia
+3,5,medisite.fr,318776.83,15980.42,9.02,88.47,99.97,1.42,147.08,0.84,Health & Wellness,France,West Europe
+3,5,infojobs.com.br,298956.14,6248.82,10.02,78.6,95.7,1.63,21.86,0.44,Education & Careers,Spain,West Europe
+3,5,zerochan.net,295199.04,7642.25,2.36,58.61,85.88,1.79,25.79,0.35,Community & Culture,United States,North America
+3,5,wrc.net.pl,291960.54,14771.77,4.92,86.82,97.39,1.5,131.57,0.72,Autos,Poland,East Europe
+3,5,i3investor.com,288315.02,13926.57,6.3,68.23,88.15,1.48,47.84,0.33,Money & Investing,Malaysia,Asia
+3,6,hket.com,146129.77,1241.08,29.33,77.05,87.15,0.86,6.46,0.33,Money & Investing,Hong Kong,Asia
+3,6,ragalahari.com,137591.81,837.29,1.67,63.8,96.0,1.83,1.19,0.08,Movies & Television,India,Asia
+3,6,eklablog.com,136626.08,1387.77,0.61,49.73,58.73,1.11,8.82,0.36,Community & Culture,France,West Europe
+3,6,muz-tv.ru,134386.17,15846.74,10.78,85.27,97.6,1.57,47.89,0.57,Community & Culture,Russia,East Europe
+3,6,hitek.fr,132980.36,1057.36,0.66,43.5,54.34,0.83,5.18,0.21,Tech & Gaming,France,West Europe
+3,6,fctables.com,132892.33,535.2,0.41,83.89,94.52,1.49,2.87,0.5,Sports,Nigeria,Africa
+3,6,u-tv.ru,132589.62,2220.17,1.76,86.9,97.4,1.6,13.65,0.74,Movies & Television,Russia,East Europe
+3,6,ligainsider.de,127872.72,5967.83,8.62,72.62,95.37,1.65,13.26,0.18,Sports,Germany,West Europe
+3,6,lolchess.gg,127494.66,14581.39,11.67,75.01,97.83,1.68,20.54,0.13,Tech & Gaming,United States,North America
+3,6,santabanta.com,123211.88,2692.38,1.83,68.47,79.29,1.51,13.86,0.41,Community & Culture,India,Asia
+3,6,gry-online.pl,123189.43,271.86,14.46,81.9,93.73,1.41,0.29,0.05,Tech & Gaming,Poland,East Europe
+3,6,gazzetta.it,122623.75,34750.95,26.93,66.01,99.28,1.74,112.76,0.33,Sports,United States,North America
+3,6,indiaglitz.com,117863.4,21020.4,17.28,82.11,95.21,1.63,196.79,0.86,Movies & Television,India,Asia
+3,6,stoppapressarna.se,117692.17,18212.0,12.03,77.83,87.17,1.45,125.48,0.77,Movies & Television,Sweden,West Europe
+3,6,planetminecraft.com,116369.88,13559.0,9.76,62.12,81.51,1.53,10.12,0.07,Tech & Gaming,United States,North America
+3,6,avito.ma,115245.49,4774.36,4.36,85.72,97.23,1.62,75.3,1.63,Home,France,West Europe
+3,6,futbolme.com,114375.07,220.0,0.38,79.45,87.66,2.31,0.71,0.13,Sports,Spain,West Europe
+3,6,descopera.ro,108778.48,187.84,0.25,79.78,83.99,1.5,1.23,0.47,Community & Culture,Romania,East Europe
+3,6,gamewith.net,106370.0,1039.2,0.98,86.83,93.44,1.87,1.8,0.17,Tech & Gaming,United Kingdom,West Europe
+3,6,tv7dias.pt,102715.86,1386.8,1.3,92.36,94.72,1.57,12.56,1.19,Community & Culture,Portugal,West Europe
+3,6,lovepedia.net,102677.61,56.93,0.02,18.0,25.97,0.62,0.2,0.11,Community & Culture,Italy,West Europe
+3,6,adshort.world,102120.0,5169.56,4.75,83.09,83.88,1.85,10.24,0.2,Tech & Gaming,United States,North America
+3,6,soccer.ru,100217.2,3997.18,4.84,80.06,89.92,1.56,7.58,0.17,Sports,Russia,East Europe
+3,6,obrazovaka.ru,99577.14,36.43,0.04,83.67,95.24,1.62,0.14,0.39,Education & Careers,Russia,East Europe
+3,6,bollywoodlife.com,99472.14,3615.24,4.85,70.43,84.84,1.48,23.71,0.57,Movies & Television,United States,North America
+3,6,bgr.in,99202.96,983.92,3.78,39.93,47.06,0.8,1.53,0.16,Tech & Gaming,India,Asia
+3,6,ciao.ro,97651.46,72.0,2.8,17.7,27.11,0.47,0.33,0.82,Glamour,Romania,East Europe
+3,6,ulifestyle.com.hk,95827.86,3006.07,21.8,69.25,73.77,0.82,7.59,0.15,Leisure,Hong Kong,Asia
+3,6,uta-net.com,95767.95,1984.78,1.87,50.04,62.22,1.11,1.66,0.07,Community & Culture,Japan,Asia
+3,6,ecartelera.com,95723.48,7078.52,7.37,80.67,94.8,1.68,61.51,0.97,Movies & Television,Spain,West Europe
+3,6,juksy.com,92115.14,4003.64,7.94,80.88,98.31,1.84,7.91,0.2,Glamour,Taiwan,Asia
+3,6,ole.com.ar,90741.0,8216.81,8.19,73.7,75.8,1.55,19.5,0.26,Sports,Spain,West Europe
+3,6,game-debate.com,90183.64,3829.45,3.12,57.79,71.2,1.08,8.09,0.17,Tech & Gaming,United States,North America
+3,6,dhnet.be,88347.47,18199.55,21.38,87.32,96.23,1.57,72.03,0.45,Sports,Belgium,West Europe
+3,6,tune.pk,85166.78,4523.22,3.56,64.75,79.12,1.45,45.4,1.38,Tech & Gaming,Qatar,Arabia
+3,6,stream2watch.ws,84833.37,9573.05,2.58,22.48,27.66,0.56,47.38,0.12,Movies & Television,Canada,North America
+3,6,fortnitetracker.com,84351.36,11632.32,7.98,47.21,66.09,1.25,10.64,0.09,Tech & Gaming,United States,North America
+3,6,go4it.ro,83457.68,2441.32,2.59,83.04,95.43,1.53,16.16,0.63,Tech & Gaming,Romania,East Europe
+3,6,der-betze-brennt.de,82330.77,8478.11,8.2,60.28,77.48,1.27,11.4,0.1,Sports,Germany,West Europe
+3,6,linkneverdie.com,80859.0,1415.75,1.57,64.15,90.12,1.71,0.5,0.01,Tech & Gaming,Vietnam,Asia
+3,6,1fichier.com,80471.0,2159.0,2.68,77.22,73.29,0.1,3.0,0.14,Tech & Gaming,France,West Europe
+3,6,quien.com,78295.12,19381.43,24.02,75.15,80.89,1.38,95.33,0.44,Glamour,United States,North America
+3,6,exp.gg,78270.39,7315.68,9.45,71.68,82.82,1.39,15.19,0.18,Tech & Gaming,Taiwan,Asia
+3,6,kino-teatr.ru,77818.77,5157.27,12.55,83.34,98.54,1.74,8.77,0.12,Movies & Television,Russia,East Europe
+3,6,jeja.pl,76586.69,1006.11,0.93,66.72,85.62,1.5,6.86,0.48,Community & Culture,Poland,East Europe
+3,6,novsport.com,76013.04,801.96,1.85,75.16,89.29,1.68,4.52,0.22,Sports,Bulgaria,East Europe
+3,6,thethaovanhoa.vn,75423.67,1142.65,1.22,68.78,83.42,1.6,1.16,0.07,Sports,Vietnam,Asia
+3,6,brighthumanity.me,75167.0,1.0,0.0,100.0,50.0,1.5,0.0,0.0,Community & Culture,United States,North America
+3,6,rayanworld.com,74835.95,113.84,0.16,72.74,94.74,1.76,0.37,0.27,Glamour,United States,North America
+3,6,letudiant.fr,73408.15,6470.25,3.61,30.26,44.34,0.69,22.38,0.1,Community & Culture,France,West Europe
+3,6,best-hashtags.com,72564.82,4066.54,1.87,32.86,48.61,0.91,3.88,0.65,Community & Culture,United States,North America
+3,6,presslogic.com,72484.65,10916.81,15.72,86.75,98.02,1.71,17.36,0.29,Tech & Gaming,Hong Kong,Asia
+3,6,bomb01.com,71290.96,14363.52,21.33,88.27,99.55,1.78,36.23,0.26,Community & Culture,Taiwan,Asia
+3,6,sanego.de,70013.62,6133.54,8.86,69.27,76.9,1.21,66.92,0.72,Community & Culture,Germany,West Europe
+3,6,twpkinfo.com,69656.13,2847.32,3.77,79.01,99.03,1.87,10.91,0.3,Tech & Gaming,Taiwan,Asia
+3,6,wowz.com,69144.17,1530.0,2.05,63.91,90.0,1.52,16.24,1.02,Tech & Gaming,United States,North America
+3,6,maria.pt,68649.89,68.82,0.1,90.88,93.51,1.58,0.77,1.04,Glamour,Portugal,West Europe
+3,6,greatsong.net,68209.59,5164.89,7.24,85.45,97.22,1.51,20.93,0.39,Music & Radio,France,West Europe
+3,6,eurogamer.pt,67714.15,8259.32,12.51,77.77,98.58,1.63,26.41,0.34,Tech & Gaming,Portugal,West Europe
+4,1,gente.com.ar,109875.74,7289.45,7.11,70.64,74.18,1.26,46.02,0.49,Glamour,Argentina,South America
+4,1,cnnchile.com,107192.83,20660.73,21.63,90.31,99.16,1.53,268.29,1.28,Movies & Television,Chile,South America
+4,1,senhorcarros.com,107129.31,3.62,0.01,54.87,79.18,1.43,0.0,0.0,Autos,Brazil,South America
+4,1,imageneseducativas.com,105966.72,3677.43,3.81,82.03,93.37,1.63,19.08,0.49,Casual Games,Mexico,South America
+4,1,mixdeseries.com.br,105958.46,19809.91,22.4,79.4,90.57,1.47,125.45,0.53,Movies & Television,Brazil,South America
+4,1,revistabula.com,105501.93,26718.04,30.22,86.19,99.43,1.62,111.8,0.44,Community & Culture,Brazil,South America
+4,1,cinehoyts.cl,105387.16,8082.7,5.65,74.22,93.6,1.51,51.47,0.58,Movies & Television,Chile,South America
+4,1,alairelibre.cl,105071.49,8664.63,10.41,45.11,98.28,1.55,20.27,0.22,Sports,Chile,South America
+4,1,hipertextual.com,103610.44,25944.99,25.19,78.04,96.19,1.6,94.67,0.31,Tech & Gaming,Mexico,South America
+4,1,everardoherrera.com,102293.24,9799.05,10.47,79.56,97.13,1.64,80.46,0.81,Sports,Costa Rica,South America
+4,1,paparazzi.com.ar,96328.09,2671.28,1.83,34.43,32.13,0.57,28.98,0.5,Glamour,Argentina,South America
+4,1,fmdos.cl,94157.29,13379.63,13.47,86.24,98.58,1.57,154.23,1.06,Glamour,Chile,South America
+4,1,superela.com,92125.54,15467.93,16.26,91.05,98.97,1.6,126.22,0.79,Glamour,Brazil,South America
+4,1,lacuerda.net,88986.97,36664.69,34.81,73.71,86.48,1.63,201.19,0.44,Music & Radio,Mexico,South America
+4,1,superluchas.com,88227.93,11477.84,15.05,74.46,89.47,1.5,49.43,0.38,Sports,Mexico,South America
+4,1,superesportes.com.br,87532.49,37652.54,33.93,79.52,99.62,1.63,144.05,0.37,Sports,Brazil,South America
+4,1,fotech.cl,87269.77,5675.78,6.35,82.39,96.71,1.56,54.85,0.94,Movies & Television,Chile,South America
+4,1,nuevamujer.com,84758.92,9799.81,15.06,73.0,92.98,1.69,52.82,0.37,Glamour,Mexico,South America
+4,1,goal.com,82831.33,34148.36,43.09,83.81,99.36,1.67,70.27,0.2,Sports,Brazil,South America
+4,1,saikaiscan.com.br,80313.83,389.92,0.49,68.6,81.52,1.64,3.17,0.9,Community & Culture,Brazil,South America
+4,1,orientacionandujar.es,79677.04,2688.51,3.8,80.86,93.58,1.64,8.08,0.3,Community & Culture,Mexico,South America
+4,1,adorocinema.com,79322.49,13323.14,19.18,79.56,98.77,1.59,40.83,0.33,Movies & Television,Brazil,South America
+4,1,radiocut.fm,79027.49,4298.19,5.08,77.4,80.1,1.49,18.87,0.58,Music & Radio,Argentina,South America
+4,1,minhaoperadora.com.br,78788.8,1592.2,1.53,93.49,98.66,1.69,10.4,0.28,Tech & Gaming,Brazil,South America
+4,1,ecuagol.com,77300.82,12021.95,15.39,81.31,95.54,1.72,68.98,0.58,Sports,Ecuador,South America
+4,1,paredro.com,77083.96,3904.81,5.84,40.47,87.55,1.68,6.19,0.19,Community & Culture,Mexico,South America
+4,1,radioagricultura.cl,76771.18,12636.55,19.54,89.78,99.03,1.54,247.66,2.2,Music & Radio,Chile,South America
+4,1,yapo.cl,75257.72,3500.06,4.45,80.59,90.93,1.72,2.38,0.08,Community & Culture,Chile,South America
+4,1,vasconoticias.com.br,72757.97,5353.86,7.82,84.43,89.65,1.41,101.21,0.8,Sports,Brazil,South America
+4,1,blogdacidadania.com.br,71749.07,6007.66,7.45,67.76,97.8,1.69,31.57,0.63,Community & Culture,Brazil,South America
+4,1,lafm.com.co,70317.23,8107.5,10.42,78.02,89.74,1.63,42.21,0.43,Music & Radio,Colombia,South America
+4,1,eslamoda.com,70295.0,1654.05,4.26,47.24,57.53,0.91,25.98,0.53,Glamour,Mexico,South America
+4,1,convocatoriasdetrabajo.com,67791.11,7156.27,10.33,86.82,96.38,1.52,55.81,0.84,Education & Careers,Peru,South America
+4,1,elfildeo.com,67772.28,13859.92,23.76,87.79,96.84,1.61,117.09,0.91,Sports,Mexico,South America
+4,1,versus.com.py,67446.14,4943.53,5.48,69.6,73.55,1.22,42.26,0.68,Sports,Paraguay,South America
+4,1,tecnoatual.com,66075.6,379.36,0.62,93.6,79.79,1.76,1.76,0.53,Tech & Gaming,Brazil,South America
+4,1,catracalivre.com.br,65469.05,15672.62,12.41,29.01,52.0,0.9,78.44,0.15,Community & Culture,Brazil,South America
+4,1,americatv.com.pe,61045.1,6628.56,7.79,88.83,94.44,1.72,66.05,0.93,Movies & Television,Peru,South America
+4,1,viveusa.mx,60675.33,5965.33,9.54,74.68,93.66,1.53,26.17,0.45,Community & Culture,Mexico,South America
+4,1,canalnet.tv,60463.27,5442.25,9.31,84.12,98.2,1.72,44.97,0.78,Movies & Television,Uruguay,South America
+4,1,universoformulas.com,59684.89,9215.07,18.78,86.19,96.5,1.6,31.48,0.33,Education & Careers,Mexico,South America
+4,1,culturizando.com,58677.38,8421.62,17.24,88.1,96.93,1.62,60.81,0.74,Community & Culture,Mexico,South America
+4,1,yavendras.com,56825.26,4410.93,4.91,46.13,59.12,1.06,40.53,0.48,Community & Culture,Mexico,South America
+4,1,significadodossonhos.inf.br,54767.97,1573.19,2.16,72.37,74.98,1.4,9.63,0.53,Leisure,Brazil,South America
+4,1,m360.cl,54688.51,10570.08,19.41,86.22,98.76,1.54,108.79,1.04,Glamour,Chile,South America
+4,1,ejemplos.co,54667.44,2205.99,1.32,29.95,30.85,0.64,17.59,0.27,Education & Careers,Mexico,South America
+4,1,informabtl.com,54645.85,3079.42,6.71,49.21,74.6,1.42,13.15,0.32,Community & Culture,Mexico,South America
+4,1,contioutra.com,53606.57,4868.15,8.92,89.4,98.23,1.53,28.02,0.81,Health & Wellness,Brazil,South America
+4,1,hypeness.com.br,52260.08,2343.2,5.36,85.78,92.06,1.48,10.18,0.43,Community & Culture,Brazil,South America
+4,1,gaveanews.com,50722.52,1202.93,6.6,77.6,96.11,1.54,3.55,0.27,Sports,Brazil,South America
+4,1,economipedia.com,49413.61,1222.12,2.66,32.79,83.8,1.72,1.48,0.06,B-to-B,Mexico,South America
+4,1,vistazo.com,49334.99,10115.42,19.47,85.96,93.9,1.74,72.54,0.63,Community & Culture,Ecuador,South America
+4,1,mediavida.com,49269.55,2952.49,4.33,60.26,69.07,1.28,10.64,0.26,Tech & Gaming,Peru,South America
+4,1,hinchaamarillo.com,48290.33,3946.36,8.64,81.19,94.83,1.69,35.69,0.92,Sports,Ecuador,South America
+4,1,cinepremiere.com.mx,47904.39,6780.28,19.5,84.06,97.17,1.58,19.53,0.3,Movies & Television,Mexico,South America
+4,1,tijolaco.net,47841.45,8918.69,19.52,86.15,98.32,1.59,42.57,0.57,Community & Culture,Brazil,South America
+4,1,rd1.com.br,47707.51,17925.28,23.26,52.61,64.45,1.02,33.65,0.12,Glamour,Brazil,South America
+4,1,acordesweb.com,47599.83,1107.0,2.12,91.24,70.87,1.53,9.67,0.68,Music & Radio,Argentina,South America
+4,1,futbol.com.uy,46679.25,3847.9,8.35,82.41,95.66,1.78,24.06,0.54,Sports,Uruguay,South America
+4,1,frasesparawhats.com.br,46326.16,3882.33,5.67,54.48,69.17,1.21,19.89,0.3,Community & Culture,Brazil,South America
+4,1,cokitos.com,46091.69,1527.92,2.89,59.44,73.42,1.36,13.13,0.63,Casual Games,Mexico,South America
+4,1,correomagico.com,45809.51,1558.62,3.6,79.08,94.86,1.68,15.59,1.01,Community & Culture,Argentina,South America
+4,1,milejemplos.com,45106.95,3972.33,9.24,74.03,94.59,1.68,34.41,0.83,B-to-B,Colombia,South America
+4,1,alofokemusic.net,44839.86,259.07,0.33,22.63,22.65,0.64,2.18,0.29,Music & Radio,Dominican Republic,South America
+4,1,grandepremio.com.br,44663.42,1311.07,1.89,52.0,65.99,1.03,4.69,0.18,Autos,Brazil,South America
+4,1,definiciona.com,44162.46,2215.38,6.41,63.16,82.63,1.49,8.98,0.34,Education & Careers,Mexico,South America
+4,1,tvprime.com.br,44006.44,8049.46,13.06,43.19,68.1,1.28,46.62,0.37,Movies & Television,Brazil,South America
+4,1,exafm.com,43365.87,12380.92,23.34,67.58,84.03,1.35,68.61,0.54,Music & Radio,Mexico,South America
+4,1,gruposdezap.com,42677.26,660.85,1.4,54.53,78.07,1.67,2.0,0.34,Community & Culture,Brazil,South America
+4,1,cdf.cl,42268.73,8788.29,19.07,86.77,97.6,1.45,61.14,0.75,Sports,Chile,South America
+4,1,clasificadosvanguardia.com,41559.8,1298.74,3.91,78.81,94.35,1.63,14.32,1.16,Shopping,Colombia,South America
+4,1,emprendepyme.net,41357.66,8097.87,21.12,75.86,95.59,1.63,28.9,0.4,B-to-B,Colombia,South America
+4,1,pantallazo.com.uy,41159.05,1418.79,3.09,77.05,81.73,1.54,13.53,0.77,Movies & Television,Uruguay,South America
+4,1,flamengorj.com.br,40709.96,16058.02,29.34,74.19,92.07,1.49,111.05,0.44,Sports,Brazil,South America
+4,1,nacionalloteria.com,40686.29,253.29,0.65,90.45,77.0,1.5,4.14,1.69,Money & Investing,Mexico,South America
+4,1,13.cl,40673.28,9505.72,23.32,81.37,89.06,1.47,29.04,0.38,Movies & Television,Chile,South America
+4,1,op9.com.br,39885.0,10691.25,11.75,36.18,44.11,0.77,72.2,0.25,Movies & Television,Brazil,South America
+4,1,benditofutbol.com,39486.44,5268.24,12.79,89.53,94.06,1.58,37.73,0.75,Sports,Ecuador,South America
+4,1,laurag.tv,39429.99,8391.14,14.72,77.73,81.82,1.43,55.76,0.81,Movies & Television,Mexico,South America
+4,1,expansion.mx,39275.27,6361.55,24.77,55.43,80.45,1.26,17.0,0.24,Money & Investing,Argentina,South America
+4,1,maisnovela.com.br,38775.82,9728.16,23.27,77.05,80.88,1.34,51.08,0.37,Movies & Television,Brazil,South America
+4,1,guiadacozinha.com.br,37719.55,15858.45,25.37,39.18,56.39,0.96,114.64,0.45,Food,Brazil,South America
+4,1,escolaeducacao.com.br,37389.84,898.32,2.61,80.04,93.9,1.64,1.04,0.11,Education & Careers,Brazil,South America
+4,1,acusticafm.com.br,36364.14,2032.57,4.09,79.75,92.83,1.43,24.36,0.67,Music & Radio,Brazil,South America
+4,1,gpucheck.com,36244.77,4409.83,10.43,64.21,88.26,1.51,5.28,0.14,Tech & Gaming,Brazil,South America
+4,1,nit.pt,35390.29,606.14,1.62,87.99,98.82,1.56,3.43,0.85,Community & Culture,Brazil,South America
+4,1,psicoactiva.com,35376.31,8762.46,19.83,79.09,92.01,1.57,20.15,0.31,Education & Careers,Mexico,South America
+4,1,soccerway.com,33357.86,1809.11,6.55,55.57,77.47,1.43,1.28,0.05,Sports,Mexico,South America
+4,1,financasmoney.com,32973.3,86.25,0.17,43.93,48.71,0.95,0.16,0.23,Money & Investing,Brazil,South America
+4,1,lapelotona.com,32955.51,4982.34,16.38,83.23,85.37,1.52,19.66,0.49,Sports,Colombia,South America
+4,1,todo-mail.com,32902.54,7632.97,22.91,82.71,93.4,1.63,77.8,0.98,B-to-B,Peru,South America
+4,1,culturainquieta.com,32803.48,2967.42,9.12,86.4,95.29,1.61,26.21,0.96,Community & Culture,Mexico,South America
+4,1,americatv.com.ar,32635.32,1877.08,10.12,85.54,94.35,1.74,11.73,0.64,Movies & Television,Uruguay,South America
+4,1,metro951.com,32610.31,174.47,1.07,35.27,43.56,0.86,0.95,0.2,B-to-B,Argentina,South America
+4,1,antena2.com.co,32581.98,6662.06,14.93,44.22,54.86,0.95,30.49,0.25,Music & Radio,Colombia,South America
+4,1,bioguia.com,32257.67,7564.07,23.63,86.72,96.43,1.7,44.62,0.6,Health & Wellness,Argentina,South America
+4,1,famazine.com,31222.23,2814.23,4.92,26.86,44.88,0.83,34.06,0.47,Music & Radio,El Salvador,South America
+4,1,caracoltv.com,30919.98,101.76,6.02,8.28,22.76,0.53,1.16,0.12,Movies & Television,Colombia,South America
+4,1,ovaciondigital.com.uy,30319.33,1565.46,5.11,79.77,87.25,1.58,7.19,0.42,Sports,Argentina,South America
+4,1,parati.com.ar,30285.07,2704.24,8.38,75.19,77.84,1.26,19.28,0.54,Shopping,Argentina,South America
+4,1,elembarazo.net,30212.78,6102.21,18.75,83.07,94.36,1.66,44.48,0.78,Family & Parenting,Mexico,South America
+4,1,pingit.im,29681.3,3050.0,9.7,84.88,90.45,1.83,4.76,0.18,Money & Investing,Venezuela,South America
+4,1,revistapazes.com,29206.23,2936.05,15.63,91.95,97.12,1.38,20.87,0.49,Community & Culture,Brazil,South America
+4,1,futbolecuador.com,28772.07,4341.15,17.65,81.81,94.71,1.73,31.07,0.74,Sports,Ecuador,South America
+4,1,mientrastantoenmexico.mx,28687.55,1760.01,6.69,77.84,88.03,1.48,14.2,0.76,Community & Culture,Mexico,South America
+4,1,ruta0.com,28379.1,728.67,1.0,33.17,35.83,0.64,9.19,0.43,Travel,Argentina,South America
+4,1,pensarcontemporaneo.com,28327.23,4431.28,14.25,90.44,97.92,1.51,21.7,0.53,Community & Culture,Brazil,South America
+4,1,etapainfantil.com,28230.36,10807.52,25.18,52.54,69.24,1.15,49.33,0.27,Family & Parenting,Guatemala,South America
+4,1,resultadobaloto.com,27992.29,585.86,2.14,93.66,75.27,1.57,5.29,0.87,Money & Investing,Colombia,South America
+4,1,lared.cl,27862.32,3935.77,13.92,80.15,98.26,1.58,23.8,0.7,Movies & Television,Chile,South America
+4,1,naoentreaki.com.br,27859.97,637.09,2.49,78.09,96.89,2.22,1.94,0.34,Leisure,Brazil,South America
+4,1,mantosdofutebol.com.br,27364.0,5687.13,20.87,83.64,99.2,1.6,23.31,0.41,Sports,Brazil,South America
+4,1,buscabiografias.com,27332.29,8532.23,14.44,39.52,46.42,0.8,55.13,0.27,Community & Culture,Mexico,South America
+4,1,championcounter.es,26812.38,968.62,3.4,83.37,74.72,1.56,1.15,0.1,Tech & Gaming,Chile,South America
+4,1,tudoradio.com,26741.35,3263.67,17.21,63.86,98.6,1.58,7.88,0.32,Music & Radio,Brazil,South America
+4,1,icarito.cl,26311.65,2657.16,11.83,86.42,95.28,1.63,17.3,0.55,Education & Careers,Mexico,South America
+4,1,ecuadorec.com,26169.87,2019.45,8.86,82.81,89.63,1.9,14.31,0.66,B-to-B,Ecuador,South America
+4,1,justexw.com,26103.7,2987.31,11.86,75.08,96.21,1.68,10.68,0.4,B-to-B,Mexico,South America
+4,1,ign.com,25675.52,6471.59,24.3,85.35,99.06,1.59,20.51,0.3,Tech & Gaming,Brazil,South America
+4,1,canalrural.com.br,25578.59,3492.87,4.9,26.9,38.54,0.64,20.46,0.24,Movies & Television,Brazil,South America
+4,1,t13.cl,25524.91,2599.55,9.8,88.37,82.77,1.55,3.91,0.17,Movies & Television,Chile,South America
+4,1,gtaall.net,24760.8,463.4,1.95,82.94,52.4,1.5,3.6,0.77,Autos,Argentina,South America
+4,1,solitariospider.org,24746.8,2947.54,10.19,78.74,85.46,1.54,18.47,0.5,Casual Games,Argentina,South America
+4,1,elhombre.com.br,24469.29,3490.6,13.71,83.38,96.99,1.59,9.5,0.37,Glamour,Brazil,South America
+4,1,radaresportes.com.br,24378.47,3484.54,12.99,63.44,98.72,1.71,19.1,0.5,Sports,Brazil,South America
+4,1,resultadoslotochile.com,24225.1,228.01,1.08,75.61,83.92,1.47,3.8,0.89,Sports,Chile,South America
+4,1,devilnovels.com,24156.71,220.67,0.97,62.42,51.25,1.96,2.19,0.89,Community & Culture,Brazil,South America
+4,1,rcnradio.com,24001.07,1537.36,5.66,73.74,84.58,1.59,9.54,0.56,Music & Radio,Colombia,South America
+4,1,holadoctor.com,23622.86,5480.73,10.22,62.77,86.55,1.49,24.3,0.52,Health & Wellness,Mexico,South America
+4,1,tusacordes.com,23400.42,18.17,5.38,54.29,64.7,1.29,0.0,0.0,Music & Radio,Argentina,South America
+4,1,politize.com.br,23306.85,1410.82,5.22,45.28,53.48,0.91,4.39,0.15,Community & Culture,Brazil,South America
+4,1,laguiafemenina.com,22887.54,8942.0,26.87,65.73,76.01,1.25,59.6,0.45,Glamour,Dominican Republic,South America
+4,1,leouve.com.br,22859.27,4496.75,19.38,35.27,42.85,0.82,13.89,0.1,Music & Radio,Brazil,South America
+4,1,lamejor.com.mx,22661.62,1746.98,6.87,66.71,75.85,1.27,13.7,0.54,Music & Radio,Mexico,South America
+4,1,tn8.tv,22339.12,755.67,3.36,86.57,88.99,1.53,4.74,0.53,Movies & Television,Nicaragua,South America
+4,1,multimedios.com,22326.0,4277.22,20.61,84.42,93.56,1.76,70.0,1.43,Movies & Television,Mexico,South America
+4,1,liderendeportes.com,22231.67,193.64,0.63,64.94,66.34,1.19,1.15,0.35,Sports,Venezuela,South America
+4,1,altoastral.com.br,22142.61,4724.01,21.87,86.73,99.06,1.59,51.13,1.08,Community & Culture,Brazil,South America
+4,1,fragrantica.es,20867.84,3136.04,4.95,25.34,36.38,0.65,5.88,0.07,Shopping,Mexico,South America
+4,1,medicinanet.com.br,20866.35,11084.84,51.78,76.58,99.66,1.7,30.48,0.27,Health & Wellness,Brazil,South America
+4,1,dondeir.com,20750.36,2594.94,28.6,69.17,92.97,1.5,40.59,0.72,Travel,Mexico,South America
+4,1,ecoosfera.com,20573.13,853.07,1.08,25.51,30.29,0.51,9.57,0.36,Health & Wellness,Mexico,South America
+4,1,rock.com.ar,20381.44,282.53,1.23,70.13,51.3,1.28,0.48,0.23,Music & Radio,Argentina,South America
+4,2,bitbol.la,1054934.05,34032.09,3.77,86.47,89.51,1.44,145.27,0.39,Sports,Peru,South America
+4,2,mundopositivo.com.br,969535.28,79405.1,13.28,74.56,97.76,1.81,9.66,0.03,Community & Culture,Brazil,South America
+4,2,plantaoaovivo.com.br,796087.89,22824.27,1.93,83.45,86.48,1.49,145.13,0.74,Community & Culture,Brazil,South America
+4,2,merca20.com,742033.66,54895.56,9.04,67.46,91.98,1.56,338.6,0.59,Tech & Gaming,Mexico,South America
+4,2,4shared.com,708477.17,9.67,0.0,62.16,24.97,2.18,0.0,0.0,Community & Culture,Brazil,South America
+4,3,editalconcursosbrasil.com.br,606538.19,59205.0,5.91,77.48,94.2,1.73,685.81,1.59,Money & Investing,Brazil,South America
+4,3,record.com.mx,589709.78,47020.27,9.02,73.06,96.88,1.61,201.92,0.49,Sports,Mexico,South America
+4,3,vagalume.com.br,512284.71,165461.05,34.39,77.33,99.51,1.69,631.08,0.43,Music & Radio,Brazil,South America
+4,3,letras.mus.br,445859.21,183288.71,47.94,77.15,99.22,1.94,410.06,0.22,Music & Radio,Brazil,South America
+4,3,tvnotas.com.mx,420542.8,34174.99,8.69,88.16,95.2,1.69,165.47,0.51,Glamour,Mexico,South America
+4,3,tudogostoso.com.br,398837.5,135026.8,36.51,77.02,99.42,1.61,313.37,0.26,Food,Brazil,South America
+4,3,vix.com,369497.67,37764.0,8.82,93.18,96.84,1.29,222.67,0.46,Movies & Television,Brazil,South America
+4,3,joaobidu.com.br,351715.6,35401.09,10.32,83.09,99.26,1.69,214.4,0.63,Health & Wellness,Brazil,South America
+4,4,calcuworld.com,314675.34,24023.86,8.14,61.01,94.69,1.7,108.5,0.46,Education & Careers,Mexico,South America
+4,4,cadena3.com,279359.49,11821.36,5.0,76.58,74.43,1.32,110.14,0.77,Music & Radio,Argentina,South America
+4,4,cifraclub.com.br,277794.03,36980.55,31.5,83.57,97.92,1.71,209.46,0.31,Music & Radio,Brazil,South America
+4,4,zonarutoppuden.com,256843.22,3845.43,1.52,86.36,94.96,2.38,27.16,0.89,Movies & Television,Mexico,South America
+4,4,facilisimo.com,242316.11,21667.84,13.15,83.21,91.79,1.63,200.88,0.9,Community & Culture,Mexico,South America
+4,4,tvazteca.com,228963.29,39914.31,19.37,87.59,97.76,1.52,409.5,1.12,Community & Culture,Mexico,South America
+4,4,jogosgratis.online,226328.12,4276.02,3.21,75.55,91.38,1.64,0.32,0.02,Casual Games,Brazil,South America
+4,4,lance.com.br,216415.27,69663.29,30.78,75.05,99.32,1.63,239.77,0.32,Sports,Brazil,South America
+4,4,colunadofla.com,215234.52,38433.01,18.83,86.92,99.45,1.52,101.19,0.29,Sports,Brazil,South America
+4,4,coolrom.com.au,209372.92,1704.5,1.04,79.62,58.09,1.51,10.75,0.69,Tech & Gaming,Mexico,South America
+4,4,diarioshow.com,209083.98,5700.22,2.74,90.47,92.65,1.69,66.0,0.97,Glamour,Argentina,South America
+4,4,canal1.com.co,194255.03,12606.5,7.59,75.93,82.55,1.49,124.47,0.95,Glamour,Colombia,South America
+4,4,latina.pe,193115.27,23130.27,14.85,87.81,96.51,1.74,279.01,1.18,Community & Culture,Peru,South America
+4,4,minhavida.com.br,181367.84,126908.93,67.94,87.25,99.49,1.74,657.39,0.51,Health & Wellness,Brazil,South America
+4,4,lasestrellas.tv,175915.86,13830.48,24.32,88.66,95.43,1.51,113.68,0.79,Glamour,Mexico,South America
+4,4,formulatv.com,175789.78,13062.34,7.68,79.84,96.22,1.66,154.02,1.16,Movies & Television,Mexico,South America
+4,4,letras.com,171004.71,35891.41,24.5,81.77,97.09,1.66,80.74,0.22,Music & Radio,Mexico,South America
+4,4,aulafacil.com,170019.39,13820.89,9.67,83.35,95.39,1.66,92.69,0.69,Education & Careers,Mexico,South America
+4,4,conmishijos.com,165731.26,18688.93,11.26,80.61,94.25,1.66,77.27,0.45,Family & Parenting,Mexico,South America
+4,4,minecrafteo.com,165502.63,7897.24,4.56,71.69,94.22,1.66,33.64,0.47,Tech & Gaming,Argentina,South America
+4,4,purepeople.com.br,164130.06,44112.68,23.42,84.32,98.77,1.54,379.78,0.84,Glamour,Brazil,South America
+4,4,primiciasya.com,163156.51,4540.81,2.85,78.37,80.36,1.77,60.34,0.82,Glamour,Argentina,South America
+4,4,upsocl.com,161888.03,22916.51,16.07,88.0,96.44,1.64,145.96,0.63,Community & Culture,Mexico,South America
+4,4,hoy.com.py,161847.17,9807.25,4.65,61.42,65.9,1.15,84.21,0.55,Money & Investing,Paraguay,South America
+4,4,culturacolectiva.com,153043.52,14421.8,16.36,69.63,92.45,1.7,66.58,0.49,Community & Culture,Mexico,South America
+4,4,mi-rfc.com.mx,152626.36,8965.21,5.26,80.7,97.15,1.56,105.9,1.51,Community & Culture,Mexico,South America
+4,4,iprofesional.com,148584.59,5200.04,6.84,59.16,78.11,1.41,22.48,0.3,Money & Investing,Argentina,South America
+4,4,baenegocios.com,147439.06,4153.29,3.69,74.1,87.17,1.62,44.4,0.61,B-to-B,Argentina,South America
+4,4,estilonext.com,143666.29,36473.26,23.13,89.68,95.92,1.55,327.16,1.11,Health & Wellness,Mexico,South America
+4,4,netflu.com.br,143354.68,27230.69,20.92,79.6,99.02,1.6,110.15,0.44,Sports,Brazil,South America
+4,4,bemparana.com.br,142842.3,11776.85,8.25,87.25,99.26,1.53,64.94,0.56,Community & Culture,Brazil,South America
+4,4,eleconomista.com.mx,140845.64,16940.89,16.96,84.24,96.43,1.69,112.17,0.72,B-to-B,Mexico,South America
+4,4,zoorprendente.com,136118.91,11866.0,10.8,71.41,83.03,1.43,202.93,1.36,Community & Culture,Mexico,South America
+4,4,chilevision.cl,133954.7,23187.26,17.62,83.41,94.84,1.37,532.84,1.81,Movies & Television,Chile,South America
+4,4,telediario.mx,127233.72,13439.63,12.07,86.71,95.14,1.91,111.72,0.91,Movies & Television,Mexico,South America
+4,4,cuentosparadormir.com,117210.7,6578.73,6.74,61.34,95.37,1.6,55.67,0.91,Education & Careers,Mexico,South America
+4,4,moneytimes.com.br,116791.25,9839.88,8.16,57.1,87.32,1.76,2.46,0.03,Money & Investing,Brazil,South America
+4,4,suamusica.com.br,113082.22,46663.42,36.51,64.76,82.99,2.08,172.0,0.35,Music & Radio,Brazil,South America
