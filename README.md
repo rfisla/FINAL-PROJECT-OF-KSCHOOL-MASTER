@@ -1,6 +1,6 @@
 # Reaching the right target market with Digital Advertising 
 
-*This repo contains the whole project of the Kschool Data Science Master 20th Edition.*
+*This repo contains the final project of the Kschool Data Science Master 20th Edition.*
 
 
 ## **Context:**
