@@ -12,7 +12,7 @@ There are hundreds of SSPs in the market. The advertisers ask these companies to
 
 ## **Project Overview:**
 
-- Analyze the multiple variables that have to be taken into account in order to analyze the quality of the websites traffic. 
+- Analyze the multiple variables that have to be taken into account in order to label the quality of the websites traffic. 
 - Interpretate the general trends of the websites over the last 366 days. 
 - Clustering the available websites to find if there is a way where we can packaged them in X groups with similar characteristics.
 - Allow the SSP to classify better the websites and facilitate the proccess of running campaigns with the appropiate ones.
