@@ -81,10 +81,12 @@ I looked at the distributions of the features and other interesting visualizatio
 
 
 - ### ***Categorical variables:***
- <img src="Graphs/Traffic tendency by region.png"> , <img src="Graphs/Categories Distribution by region.png"> ,  <img src="Graphs/Daily global traffic by country.png">
+ <img src="Graphs/Categories Distribution by region.png"> ,  <img src="Graphs/Daily global traffic by country.png"> , <img src="Graphs/Traffic tendency by region.png"> 
+ 
+ **The last graph show us that the regions where the advertirsers invest more is in North/South America, and West Europe(I don´t take Australia into account because it has a very low representation)**
 
 
-- #### **Interactive map with tableau where we can check by country the number of domains, the format fill rate mean and the most common category, available in this [link](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/Graphs/SUBCLUSTERS%20VISUALIZATION.twbx)**
+#### **Interactive map with tableau where we can check by country the number of domains, the format fill rate mean and the most common category, available in this [link](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/Graphs/SUBCLUSTERS%20VISUALIZATION.twbx)**
 
 
 
@@ -113,6 +115,7 @@ Before training the models, I made three different data transformations in order
 - Standarizing the data with **Standard Scaler.**
 - Normalizing samples individually to unit norm with **Normalizer.**
 - Transforming features by scaling each feature to a given range (0,1) with **MinMax Scaler.**
+*I reject the Robust Scaler because the results were very poor*
 
 The trained models were:
 
@@ -120,6 +123,7 @@ The trained models were:
 - **HIERARCHICAL CLUSTERING:** also very common and usually the second option, It also helps to visualize in a simple way the optimal number of clusters.
 - **DBSCAN:** Good performance with dense data, and as we saw before that is the case. 
 - **PCA + KMEANS:** By reducing the number of features, the performance of the algorithm can be improved. By decreasing the number of features the noise is also reduced. In the case of PCA and K-means in particular, there appears to be an even closer relationship between the two.
+*I tried the K-Medoids model but the results were exactly the same than K-means results*
 
 **The optimal number of clusters selection** in Kmeans was done with a visualization function which returns:
 - A plot with the **Calinski-Harabasz score** for each k-clusters. This score computes the ratio of dispersion between and within clusters.
