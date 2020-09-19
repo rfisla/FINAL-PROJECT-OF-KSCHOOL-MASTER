@@ -1,6 +1,6 @@
 # Reaching the right target market with Digital Advertising 
 
-*This repo contains the whole project of the Kschool Data Science Master 20th Edition*
+*This repo contains the whole project of the Kschool Data Science Master 20th Edition.*
 
 
 ## **Context:**
@@ -36,9 +36,9 @@ There are hundreds of SSPs in the market. The advertisers ask these companies to
 The data has been obtained from the online private Supply Side Platform . Due to the row limitation, the main data was download in 5 parts. 
 
 To replicate the project:
-- 1. Create a folder called "DATA" to save all the dataframes along the project.
-- 2. Create a folder called "Grapghs" to save the altair charts which are too big to reproduce in the notebook.
-- 3. Reproduce  the [Environment and Data extraction notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/0.%20Environment%20and%20Data%20extraction.ipynb).It´ll install the necessary libraries and download the data from Google Drive. 
+- 1- Create a folder called "DATA" to save all the dataframes along the project.
+- 2- Create a folder called "Grapghs" to save the altair charts which are too big to reproduce in the notebook.
+- 3- Reproduce  the [Environment and Data extraction notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/0.%20Environment%20and%20Data%20extraction.ipynb).It´ll install the necessary libraries and download the data from Google Drive. 
 
 ## **Data Cleaning and Engineering**
 
@@ -81,14 +81,18 @@ I looked at the distributions of the features and other interesting visualizatio
 
 
 - ### ***Categorical variables:***
- <img src="Graphs/Traffic tendency by region.png"> , <img src="Graphs/Categories Distribution by region.png"> ,  <img src="Graphs/Daily global traffic by country.png">
+ <img src="Graphs/Categories Distribution by region.png"> ,  <img src="Graphs/Daily global traffic by country.png"> , <img src="Graphs/Traffic tendency by region.png"> 
+ 
+ **The last graph show us that the regions where the advertirsers invest more is in North/South America, and West Europe(I don´t take Australia into account because it has a very low representation)**
 
 
-- #### **Interactive map with tableau where we can check by country the number of domains, the format fill rate mean and the most common category, available in this [link](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/Graphs/SUBCLUSTERS%20VISUALIZATION.twbx)**
+#### **Interactive map with tableau where we can check by country the number of domains, the format fill rate mean and the most common category, available in this [link](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/Graphs/SUBCLUSTERS%20VISUALIZATION.twbx)**
+
+
 
 ## **Clustering**
 
-- ## ***First part***
+- ### ***First part***
 [Link to the notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/2.%20Clustering%20Algorithm%20tests.ipynb)
 
 There was some problems with the data that I have had to deal with:
@@ -111,6 +115,7 @@ Before training the models, I made three different data transformations in order
 - Standarizing the data with **Standard Scaler.**
 - Normalizing samples individually to unit norm with **Normalizer.**
 - Transforming features by scaling each feature to a given range (0,1) with **MinMax Scaler.**
+*I reject the Robust Scaler because the results were very poor*
 
 The trained models were:
 
@@ -118,6 +123,7 @@ The trained models were:
 - **HIERARCHICAL CLUSTERING:** also very common and usually the second option, It also helps to visualize in a simple way the optimal number of clusters.
 - **DBSCAN:** Good performance with dense data, and as we saw before that is the case. 
 - **PCA + KMEANS:** By reducing the number of features, the performance of the algorithm can be improved. By decreasing the number of features the noise is also reduced. In the case of PCA and K-means in particular, there appears to be an even closer relationship between the two.
+*I tried the K-Medoids model but the results were exactly the same than K-means results*
 
 **The optimal number of clusters selection** in Kmeans was done with a visualization function which returns:
 - A plot with the **Calinski-Harabasz score** for each k-clusters. This score computes the ratio of dispersion between and within clusters.
@@ -140,10 +146,12 @@ These were the results:
 **As we have pretty well formed clusters where none of them represents more than 30% of the data, I decided to do another clustering for each cluster, in order to find other differences intra cluster, trying to gather the domains more precisely.**
 
 
-- ## ***Final clustering***
+- ### ***Final clustering***
 
 
-[link] In this part, I apply a new clustering over the general clusters to define subclusters and make a deeper grouping of the websites.
+[Link to the notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/3.%20Final%20Clustering.ipynb) 
+
+In this part, I apply a new clustering over the general clusters to define subclusters and make a deeper grouping of the websites.
 
  For this new clustering I am going to use 3 variables: **FORMAT LOADS, IMPRESSIONS AND CLICKS.** These are the 3 more important variables that I didn´t use in the first clustering, because the scale is extremely high (Format Loads and Impressions overall).
  
