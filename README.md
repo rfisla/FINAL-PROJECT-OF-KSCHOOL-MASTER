@@ -171,8 +171,8 @@ In this part, I apply a new clustering over the general clusters to define subcl
 
 The results have been presented with an interactive app, which contains 2 panels:
 
-- In the first panel the user can apply the filters without any restrictions in order to select the websites that he wants and see the general statistics and tendencies of the group. He also can search for a specific website.
-- The second panel is similar to the first one but the user gets recommended groups of clusters based on his preferences. It´s here where he has access to  the final subclusters obtained. He can also make a personalized selection over the given subcluster, see the tendencies of the group in the last 366 days, and the main statistics as well.
+- In the first panel (Free use panel) the user can apply the filters without any restrictions in order to select the websites that he wants and see the general statistics and tendencies of the group. He also can search for a specific website.
+- The second panel (Recommendations panel) is similar to the first one but the user gets recommended groups of clusters based on his preferences. It´s here where he has access to  the final subclusters obtained. He can also make a personalized selection over the given subcluster, see the tendencies of the group in the last 366 days, and the main statistics as well.
 
 The repo with the Streamlit code is in this [link](https://github.com/rfisla/Websites_traffic_analytics.git)
 
