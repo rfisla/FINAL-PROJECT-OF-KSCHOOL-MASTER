@@ -1,6 +1,6 @@
 # Reaching the right target market with Digital Advertising 
 
-*This repo contains the whole project of the Kschool Data Science Master 20th Edition*
+*This repo contains the whole project of the Kschool Data Science Master 20th Edition.*
 
 
 ## **Context:**
@@ -36,9 +36,9 @@ There are hundreds of SSPs in the market. The advertisers ask these companies to
 The data has been obtained from the online private Supply Side Platform . Due to the row limitation, the main data was download in 5 parts. 
 
 To replicate the project:
-- 1. Create a folder called "DATA" to save all the dataframes along the project.
-- 2. Create a folder called "Grapghs" to save the altair charts which are too big to reproduce in the notebook.
-- 3. Reproduce  the [Environment and Data extraction notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/0.%20Environment%20and%20Data%20extraction.ipynb).It´ll install the necessary libraries and download the data from Google Drive. 
+- 1- Create a folder called "DATA" to save all the dataframes along the project.
+- 2- Create a folder called "Grapghs" to save the altair charts which are too big to reproduce in the notebook.
+- 3- Reproduce  the [Environment and Data extraction notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/0.%20Environment%20and%20Data%20extraction.ipynb).It´ll install the necessary libraries and download the data from Google Drive. 
 
 ## **Data Cleaning and Engineering**
 
@@ -86,9 +86,11 @@ I looked at the distributions of the features and other interesting visualizatio
 
 - #### **Interactive map with tableau where we can check by country the number of domains, the format fill rate mean and the most common category, available in this [link](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/Graphs/SUBCLUSTERS%20VISUALIZATION.twbx)**
 
+
+
 ## **Clustering**
 
-- ## ***First part***
+- ### ***First part***
 [Link to the notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/2.%20Clustering%20Algorithm%20tests.ipynb)
 
 There was some problems with the data that I have had to deal with:
@@ -140,10 +142,12 @@ These were the results:
 **As we have pretty well formed clusters where none of them represents more than 30% of the data, I decided to do another clustering for each cluster, in order to find other differences intra cluster, trying to gather the domains more precisely.**
 
 
-- ## ***Final clustering***
+- ### ***Final clustering***
 
 
-[link] In this part, I apply a new clustering over the general clusters to define subclusters and make a deeper grouping of the websites.
+[Link to the notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/3.%20Final%20Clustering.ipynb) 
+
+In this part, I apply a new clustering over the general clusters to define subclusters and make a deeper grouping of the websites.
 
  For this new clustering I am going to use 3 variables: **FORMAT LOADS, IMPRESSIONS AND CLICKS.** These are the 3 more important variables that I didn´t use in the first clustering, because the scale is extremely high (Format Loads and Impressions overall).
  
