@@ -16,7 +16,7 @@ There are hundreds of SSPs in the market. The advertisers ask these companies to
 - Interpretate the general trends of the websites over the last 366 days. 
 - Clustering the available websites to find if there is a way where we can packaged them in X groups with similar characteristics.
 - Allow the SSP to classify better the websites and facilitate the proccess of running campaigns with the appropiate ones.
-- Create an interactive tool which allows the advertiser to find the optimal websites for his campaign , making also recommendations with the resulting clusters, based on his preferences.
+- Create an interactive tool which allows the advertiser to take part of the decision process and find the optimal websites for his campaign , making also recommendations with the resulting clusters, based on his preferences.
 - **It´s important to point out that  it´s a project especifically designed for the given company, only with his data.** I´ll work with the websites that remain after applying a basic threshold (around 900) located all around the world. The regions or the categories of the domains, as we´ll see later, is clearly unbalanced, so the analysis will be influenced by this. And in most cases, the traffic value of the websites that I´ll manage is not the total traffic. Depending of the website it gives 100% of its traffic to one SSP, or maybe divides it in several SSPs. Because of that, the results of this project can´t be generalized and are not representative of the whole market, it´s only a chunk of it.
 
 ## **Code and Resources Used:**
