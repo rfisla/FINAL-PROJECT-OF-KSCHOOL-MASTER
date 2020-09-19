@@ -1,4 +1,4 @@
-# REACHING THE RIGHT TARGET MARKET WITH DIGITAL ADVERTISING
+# Reaching the right target market with Digital Advertising 
 
 *This repo contains the whole project of the Kschool Data Science Master 20th Edition*
 
@@ -38,12 +38,12 @@ The data has been obtained from the online private Supply Side Platform . Due to
 To replicate the project:
 - 1. Create a folder called "DATA" to save all the dataframes along the project.
 - 2. Create a folder called "Grapghs" to save the altair charts which are too big to reproduce in the notebook.
-- 3. Reproduce  the Environment and Data extraction notebook [link] .It´ll install the necessary libraries and download the data from Google Drive. 
+- 3. Reproduce  the [Environment and Data extraction notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/0.%20Environment%20and%20Data%20extraction.ipynb).It´ll install the necessary libraries and download the data from Google Drive. 
 
 ## **Data Cleaning and Engineering**
 
 The downloaded data has 919.425 rows and 22 columns. It´s a daily report (366 days availables), where each row represents one day and the characteristics of one website.
-After downloading the data and concatenate the five chunks,  I made the following changes and created the following variables [link]:
+After downloading the data and concatenate the five chunks,  I made the following changes and created the following variables: [(link to the notebook)](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/1.%20Full%20Data%20Interpretation.ipynb) 
 
 - **Drop** missing values.
 - **Drop**  the columns that don´t add value to the advertiser or to the project´s goal.
@@ -66,7 +66,17 @@ After downloading the data and concatenate the five chunks,  I made the followin
 I looked at the distributions of the features and other interesting visualizations to understand the data better. Below are a few representative graphs:
 
 - ### ***Continuous variables:***
- <img src="Graphs/Global trends.png"> ,  <img src="Graphs/features_distribution1.png">  , <img src="Graphs/Format Loads outliers by region.png"> , <img src="Graphs/features_distribution3.png"> 
+ <img src="Graphs/features_distribution1.png">  , <img src="Graphs/Format Loads outliers by region.png"> , <img src="Graphs/features_distribution3.png"> ,  <img src="Graphs/Global trends.png"> 
+  
+  Attending to the Impressions and Format Fill Rate graphs, that are the graphs that provide information about the general investment strategies of the advertisers, we can observe:
+ 
+ - **A peak in the last trimester of the year: It´s habitually the period with more advertising investment, the advertisers need to spend the remain budget of the year. They usually are very cautious during the year to ration the budget, and they have an important percentage remain to spend in October/November.**
+
+- **Q1 is usually the trimester with the lowest investment because the advertisers has to assign the budget for marketing campaigns. Format Fill Rate is usually low in this months. However this year we can see that in March, April and June the rate is lower than in January. This is not normal, and this has been probably triggered by the pandemic.**
+
+- **Another remarkable aspect, directly caused by the pandemic, is that the general traffic has increased during the months where the restrictions to fight against the virus were harder. April is the month of this year with more traffic**
+
+- **At the end of each trimester the investment is higher. We can see the Format Fill Rate and Impressions  tendencies reach the lowest point of the quarter just in its end/beginning. It takes a while to recover from the last quarter investment.**
 
 
 
@@ -74,9 +84,12 @@ I looked at the distributions of the features and other interesting visualizatio
  <img src="Graphs/Traffic tendency by region.png"> , <img src="Graphs/Categories Distribution by region.png"> ,  <img src="Graphs/Daily global traffic by country.png">
 
 
-## **Model Building: Clustering**
+- #### **Interactive map with tableau where we can check by country the number of domains, the format fill rate mean and the most common category, available in this [link](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/Graphs/SUBCLUSTERS%20VISUALIZATION.twbx)**
+
+## **Clustering**
 
 - ## ***First part***
+[Link to the notebook](https://github.com/rfisla/FINAL-PROJECT-OF-KSCHOOL-MASTER/blob/master/2.%20Clustering%20Algorithm%20tests.ipynb)
 
 There was some problems with the data that I have had to deal with:
 
